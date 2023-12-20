@@ -1,0 +1,1546 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4131.729
+tiers? <exists>
+size = 1
+item []: 
+	 item [1]:
+		 class = "IntervalTier"
+		 name = "silences"
+		 xmin = 0
+		 xmax = 4131.729
+		 intervals: size = 383
+		 intervals [1]:
+			 xmin = 0.0
+			 xmax = 20.32
+			 text = "[Silence]"
+		 intervals [2]:
+			 xmin = 20.32
+			 xmax = 127.6
+			 text = "Rachel and Darren, any words for our incredible finalists? | Baker, I have absolutely loved being in the shed with you, so"
+		 intervals [3]:
+			 xmin = 127.6
+			 xmax = 136.24
+			 text = "I cannot wait to see what you bake in the final. It's been a | real joy to see you grow in this shed. It's been an absolute"
+		 intervals [4]:
+			 xmin = 136.24
+			 xmax = 145.34
+			 text = "privilege to taste your delicious cakes, and it's a real | honor to know you as people. Thank you. And since we think"
+		 intervals [5]:
+			 xmin = 145.34
+			 xmax = 152.78
+			 text = "you're also fabulous, we've got you all a little finale | surprise. In a twist, we're going to get you to bake all the"
+		 intervals [6]:
+			 xmin = 152.78
+			 xmax = 165.26
+			 text = "bakes from the past 10 weeks in just six hours. Just joking. | Your real surprise is a guest judge. And no, before you ask,"
+		 intervals [7]:
+			 xmin = 165.26
+			 xmax = 173.38
+			 text = "it's not Judge Judy. She hates Kate. With a career that spans | decades, this judge is one of the most beloved bakers in the"
+		 intervals [8]:
+			 xmin = 173.38
+			 xmax = 185.24
+			 text = "country. This judge is a true national treasure. This judge | is Bake Off Royalty. That's right, Baker. Please welcome"
+		 intervals [9]:
+			 xmin = 185.24
+			 xmax = 203.38
+			 text = "the exquisite, the exceptional, the glorious Maggie | Brown! Oh, my God! Wow! Oh, Maggie, we are so excited to have"
+		 intervals [10]:
+			 xmin = 203.38
+			 xmax = 211.38
+			 text = "you here. Oh, it's so lovely to be here. You know, the Bake Off | shed is so special to me. And the excitement of being here for"
+		 intervals [11]:
+			 xmin = 211.38
+			 xmax = 221.06
+			 text = "just the finale, sort of like my icing on the cake. But I can't | wait to see what you bake for us. For your final signature"
+		 intervals [12]:
+			 xmin = 221.06
+			 xmax = 229.18
+			 text = "bake, the judges would like you to make a high tea. You must | make three items with a mixture of savoury and sweet. There"
+		 intervals [13]:
+			 xmin = 229.18
+			 xmax = 237.48
+			 text = "must be six of each item, so 18 in total. And of course, they | must be worthy of a signature finale bake. Judges, any words"
+		 intervals [14]:
+			 xmin = 237.48
+			 xmax = 243.96
+			 text = "of advice for our finalists? I'm looking for your | creativity and your personality to shine through your"
+		 intervals [15]:
+			 xmin = 243.96
+			 xmax = 254.72
+			 text = "bakes. High tea is all about being petite, so I'm looking for | some light and delicate bites. My advice is have fun!"
+		 intervals [16]:
+			 xmin = 254.72
+			 xmax = 262.62
+			 text = "Bakers, you have three hours to make your high tea. On your | marks, get set, BAKE! Good luck, good luck, good luck, good"
+		 intervals [17]:
+			 xmin = 262.62
+			 xmax = 276.14
+			 text = "luck! Good morning! Have fun! Oh, my goodness, Maggie, beer | wash in the door. Definitely a surprise, but just"
+		 intervals [18]:
+			 xmin = 276.14
+			 xmax = 284.96
+			 text = "absolutely love it. What an honour and thrill it will be to | bake for Maggie. It's hard enough to believe that I'm here in"
+		 intervals [19]:
+			 xmin = 284.96
+			 xmax = 291.6
+			 text = "the shed for the finale, as it is, but to have Maggie beer here | as well, it's out of the book. Rachel and Darren have shared"
+		 intervals [20]:
+			 xmin = 291.6
+			 xmax = 300.86
+			 text = "with me a lot about the bakers and how good they are, so I can't | wait to actually taste their bakes. This is my chickpea,"
+		 intervals [21]:
+			 xmin = 300.86
+			 xmax = 311.18
+			 text = "canis basa, and you cook it like a porridge. It's the grand | finale, our three finalists are so talented. There's"
+		 intervals [22]:
+			 xmin = 311.18
+			 xmax = 319.02
+			 text = "really nothing in it. I want to see them all do really well | today. I've chosen flavours that are really, really true to"
+		 intervals [23]:
+			 xmin = 319.02
+			 xmax = 326.38
+			 text = "me and my style and my inspiration, which is my family and | where I've come from. High tea is where our bakers can get"
+		 intervals [24]:
+			 xmin = 326.38
+			 xmax = 336.02
+			 text = "really creative. I want to see innovative design, I want to | see texture, and something delicious to eat. I smell"
+		 intervals [25]:
+			 xmin = 336.02
+			 xmax = 346.3
+			 text = "parmesan, I smell delicious. I'm just getting the bata | ready for my parmesan cake. I think one of the best things to"
+		 intervals [26]:
+			 xmin = 346.3
+			 xmax = 351.65999999999997
+			 text = "come out of the shed is the people that you meet, these two in | particular, we've become really close. There's some"
+		 intervals [27]:
+			 xmin = 351.65999999999997
+			 xmax = 360.08
+			 text = "really strong friendships that will carry on beyond the | shed. Adams and Priest with inventive designs. Can I spin"
+		 intervals [28]:
+			 xmin = 360.08
+			 xmax = 369.78
+			 text = "the wheel? Give it a little flick and the arrow should give a | spin. In four technical wins. First position, Adam. Adam,"
+		 intervals [29]:
+			 xmin = 369.78
+			 xmax = 389.42
+			 text = "again. Adam! He's also enjoyed a tipple. One for the syrup, | one for me. And an out of the space. Bottoms up. Hello. Hi"
+		 intervals [30]:
+			 xmin = 389.42
+			 xmax = 399.64
+			 text = "Adam. Hi Adam. Hello Adam. Excuse the messy bench. Oh no, no, | I feel very at ease with the messy bench. Good. Adam's high"
+		 intervals [31]:
+			 xmin = 399.64
+			 xmax = 407.2
+			 text = "tea will include a speculas and frangipan tart, lemon, | myrtle and ginger biscuits, and a parmesan cake with"
+		 intervals [32]:
+			 xmin = 407.2
+			 xmax = 415.06
+			 text = "tomato, chilli jam and pesto. This sounds really ambitious | and also sounds very delicious. All those flavours, they"
+		 intervals [33]:
+			 xmin = 415.06
+			 xmax = 422.14
+			 text = "sound wonderful. Adam, the thing that I can say most of all is | look for balance. The balance of the fillings with the"
+		 intervals [34]:
+			 xmin = 422.14
+			 xmax = 426.32
+			 text = "pastry or the biscuit is something that I've really | improved on since I've been in the shed. I'm looking forward"
+		 intervals [35]:
+			 xmin = 426.32
+			 xmax = 435.74
+			 text = "to seeing what you can do. I'm so excited to have you here. | These are my hazelnut biscuits. They get sandwiched"
+		 intervals [36]:
+			 xmin = 435.74
+			 xmax = 443.68
+			 text = "together and they'll sit on their sides. Hi Lona. Hello | Lona. I need you to tell me all about what you're going to do."
+		 intervals [37]:
+			 xmin = 443.68
+			 xmax = 452.58
+			 text = "The title of my high tea is Lona's Moorish High Tea. I have | been told that I need to bring more, more flavour, more"
+		 intervals [38]:
+			 xmin = 452.58
+			 xmax = 462.2
+			 text = "design, more filling. I want to show that I can be more. | Awesome. Maggie, we love more. We've always been about"
+		 intervals [39]:
+			 xmin = 462.2
+			 xmax = 473.06
+			 text = "more. With the help of Kat Bernard. With my sous chef. Lona's | love of vintage has shown. It's inspired by Sevenies"
+		 intervals [40]:
+			 xmin = 473.06
+			 xmax = 480.44
+			 text = "wallpaper. But it's her clever use of complex flavours. | Wow, fennel. Quite a powerful flavour, isn't it? That have"
+		 intervals [41]:
+			 xmin = 480.44
+			 xmax = 489.54
+			 text = "wowed the judges. That's really impressive. It tastes so | delicious. Week after week. So really excellent dessert."
+		 intervals [42]:
+			 xmin = 489.54
+			 xmax = 498.84
+			 text = "Well done. Lona's Moorish High Tea will include hazelnut | biscuits decorated with carrot halva. It clays filled with"
+		 intervals [43]:
+			 xmin = 498.84
+			 xmax = 508.14
+			 text = "a chestnut cramboitisserie and chickpea panisse with | black garlic aioli. And anchovies. The concept of black"
+		 intervals [44]:
+			 xmin = 508.14
+			 xmax = 516.7
+			 text = "garlic and anchovy and chives, you're talking my language. | But in the anchovy, that can be overpowering. You also need"
+		 intervals [45]:
+			 xmin = 516.7
+			 xmax = 525.92
+			 text = "texture as well as balance. The panisse is super creamy on | the inside. But I do it in a very, very hot oven, 230, with lots"
+		 intervals [46]:
+			 xmin = 525.92
+			 xmax = 531.68
+			 text = "of olive oil, so it gets a crispy golden crust. I think that's | really important to have that bit of texture against that"
+		 intervals [47]:
+			 xmin = 531.68
+			 xmax = 540.42
+			 text = "beautiful fuziness of the black garlic. With multiple | batches on the go, the finalists must perfect the art of"
+		 intervals [48]:
+			 xmin = 540.42
+			 xmax = 551.32
+			 text = "multitasking. The first round may be in the oven. These are | the tart shells. It's going in the oven to blind bake. But"
+		 intervals [49]:
+			 xmin = 551.32
+			 xmax = 562.22
+			 text = "it's straight on to the next. This is the start of my kaya in my | miso. Kaya is a stirred coconut custard that we eat a lot for"
+		 intervals [50]:
+			 xmin = 562.22
+			 xmax = 571.52
+			 text = "breakfast in Singapore. This is a really big part of Asian | culture. We don't ask, you know, how are you? Or you don't"
+		 intervals [51]:
+			 xmin = 571.52
+			 xmax = 580.58
+			 text = "say, I love you. You say, have you eaten yet? Laura's Calypso | creations celebrate into heritage. My grandma's recipe,"
+		 intervals [52]:
+			 xmin = 580.58
+			 xmax = 587.52
+			 text = "she passed it on to me before she passed away, and it's like a | very important kind of responsibility that I hold. Pushing"
+		 intervals [53]:
+			 xmin = 587.52
+			 xmax = 596.64
+			 text = "boundaries with flavors. Wow. She took the judges along for | the ride. It's so inventive. I love how so many of your bakes"
+		 intervals [54]:
+			 xmin = 596.64
+			 xmax = 605.74
+			 text = "tell us a story. This is some rehydration seaweed. I'm just | going to blitz it up so that I can add it into my scones. It's"
+		 intervals [55]:
+			 xmin = 605.74
+			 xmax = 614.9
+			 text = "nice and fine. Laura's Vevno Place Like Home High Tea will | feature a kaya milkweed, jasmine tea biscuits with lychee"
+		 intervals [56]:
+			 xmin = 614.9
+			 xmax = 623.42
+			 text = "jelly, and seaweed scones topped with salmon. How are you | going to get the seaweed flavor into the scones? I'm going to"
+		 intervals [57]:
+			 xmin = 623.42
+			 xmax = 631.0
+			 text = "mix some cream up to make a butter, and then I'll mix it in with | some furikake and some nori as well. Furikake. That amazing"
+		 intervals [58]:
+			 xmin = 631.0
+			 xmax = 637.16
+			 text = "combination of umami flavors. Totally. Have you really | enjoyed being in a baker's shed? It's been absolutely the"
+		 intervals [59]:
+			 xmin = 637.16
+			 xmax = 641.9
+			 text = "best. I've learnt so much from Darren and Rachel and the | other bakers, so I've loved making it, and I just feel"
+		 intervals [60]:
+			 xmin = 641.9
+			 xmax = 648.92
+			 text = "honored to be here. Oh, that's great. Well, we've loved | tasting all your delicious creations, so it's been"
+		 intervals [61]:
+			 xmin = 648.92
+			 xmax = 654.14
+			 text = "fantastic. Thank you. So this is No Place Like Home, so I'm | going to have to say you're Dorothy, but then you're going to"
+		 intervals [62]:
+			 xmin = 654.14
+			 xmax = 664.18
+			 text = "have to tell me who's the Tin Man, Scarecrow, Am I the Wisp? | I'm the Wisp. I am Scarecrow. She went there. I went there. I"
+		 intervals [63]:
+			 xmin = 664.18
+			 xmax = 679.32
+			 text = "fell, Tin. Thanks, Lola. This is my shu pastry. I actually | piped it in really long lines so that I can freeze it and"
+		 intervals [64]:
+			 xmin = 679.32
+			 xmax = 688.92
+			 text = "precisely slice it into the exact same size. Bakers, you | have the amount of time it takes me to find my name on a seating"
+		 intervals [65]:
+			 xmin = 688.92
+			 xmax = 699.5
+			 text = "chart even though there's a long line behind me. You have one | hour. Ah, one hour. Time is running out for the bakers to"
+		 intervals [66]:
+			 xmin = 699.5
+			 xmax = 710.58
+			 text = "cook. Be good, guys. Cool. It's got a tuffle. And creative | perfect fillings. I'm just adding some lemon-merciled tea"
+		 intervals [67]:
+			 xmin = 710.58
+			 xmax = 717.58
+			 text = "leaves to my curd just to infuse as it cooks, and then | hopefully adds another layer of lemon to my biscuits. I'm"
+		 intervals [68]:
+			 xmin = 717.58
+			 xmax = 735.14
+			 text = "just preparing the black garlic mayonnaise. Ooh, sorry. I | have curd up my back. A lot of spillage is happening today."
+		 intervals [69]:
+			 xmin = 735.14
+			 xmax = 742.74
+			 text = "Where did the time go? I know. I spilled oil all over the | place. That's where the time went. Hello, Lola. If you need"
+		 intervals [70]:
+			 xmin = 742.74
+			 xmax = 754.4
+			 text = "help in the shed, you can just go... Oh, that'll come in | handy, actually. I've loved the laugh and hugs and all the"
+		 intervals [71]:
+			 xmin = 754.4
+			 xmax = 764.32
+			 text = "things you've done to pick us up and keep us going. Is that an | invitation? Yes. Good hug, good button. Is this"
+		 intervals [72]:
+			 xmin = 764.32
+			 xmax = 787.9
+			 text = "friendship? I hope so. Oh. I'm going to check my shirt. I'm | going to shoot. This is my rough puff pastry for the Mifu. I am"
+		 intervals [73]:
+			 xmin = 787.9
+			 xmax = 795.48
+			 text = "happy with this. It's looking lovely and clear. Fakers, you | have the length of time that Darren can go without starting a"
+		 intervals [74]:
+			 xmin = 795.48
+			 xmax = 807.24
+			 text = "sentence with the words I and love. 30 minutes. You have 30 | minutes. I'm just going as fast as I can and hoping for the"
+		 intervals [75]:
+			 xmin = 807.24
+			 xmax = 817.68
+			 text = "best. They're beautiful and fluffy, these ones. I should | get them on the plate now with all of the kutrumom that I"
+		 intervals [76]:
+			 xmin = 817.68
+			 xmax = 828.62
+			 text = "wanted. Just about to start assembling my bits and pieces. | Which bit is this? This is my parmesan cake. Can I offer you a"
+		 intervals [77]:
+			 xmin = 828.62
+			 xmax = 836.26
+			 text = "sample? It's nice that you offered it to me so I don't have to | see a one. I'm just going to go back and brag to Natalie that I"
+		 intervals [78]:
+			 xmin = 836.26
+			 xmax = 850.06
+			 text = "got a pinch from her. Feeling it right up so that there's no | holes. I'm feeling really accomplished. Can't quite"
+		 intervals [79]:
+			 xmin = 850.06
+			 xmax = 859.0
+			 text = "believe that I've done all of this in three hours. Adding | some parmesan crisp for a bit of colour and movement."
+		 intervals [80]:
+			 xmin = 859.0
+			 xmax = 876.36
+			 text = "Bethes, you have ten minutes to go. The time is just flying. | I'm going to be tight. I'm just piping the curd onto my lemon"
+		 intervals [81]:
+			 xmin = 876.36
+			 xmax = 895.18
+			 text = "and ginger biscuits. I'm going to dream about mayonnaise. | My hands shaking. I'm going to be a little bit more relaxed."
+		 intervals [82]:
+			 xmin = 895.18
+			 xmax = 915.04
+			 text = "Final touch of bacon. I'm feeling good. Everything's come | out as planned. So hopefully the tasting goes well. Ten,"
+		 intervals [83]:
+			 xmin = 915.04
+			 xmax = 931.68
+			 text = "nine, eight, seven, eight. Oh my gosh. Three, two, one. Step | away from the tiny, delectable thing. Congratulations."
+		 intervals [84]:
+			 xmin = 931.68
+			 xmax = 950.16
+			 text = "Final signature bake. Oh my god, I got it done. Beautifully | presented. Very high tea. Very elegant. I love you've got"
+		 intervals [85]:
+			 xmin = 950.16
+			 xmax = 958.42
+			 text = "that exactness about every single one. We have to get into | it. We'll start with the parmesan cake first. I love the"
+		 intervals [86]:
+			 xmin = 958.42
+			 xmax = 968.78
+			 text = "parmesan fail. Really thin and golden. Oh, it smells so | good. The tomato is really sweet, but that end of chilli. It"
+		 intervals [87]:
+			 xmin = 968.78
+			 xmax = 975.38
+			 text = "is beautifully balanced. You've managed to retain that | lovely bite in the parmesan cake. So it isn't soggy. It has"
+		 intervals [88]:
+			 xmin = 975.38
+			 xmax = 982.84
+			 text = "that nice texture. A really delicious blend of sweet and | salty and the pesto on top. I think you've created something"
+		 intervals [89]:
+			 xmin = 982.84
+			 xmax = 996.84
+			 text = "that's colourful and works well. We should try the speculus | of frangiband tots. Yep. Oh wow. You've managed to capture"
+		 intervals [90]:
+			 xmin = 996.84
+			 xmax = 1003.62
+			 text = "the lovely warmth. It works so well against that almond. | This pastry is great. It's come together beautifully. The"
+		 intervals [91]:
+			 xmin = 1003.62
+			 xmax = 1014.94
+			 text = "cream was really nice and smooth and it offsets the crunch. | Well done. Thank you. Alright, lemon and ginger biscuit. I"
+		 intervals [92]:
+			 xmin = 1014.94
+			 xmax = 1025.4
+			 text = "feel like the very obedient Labrador that doesn't get | people food. Wow. Adam, I love it. They're really bright and"
+		 intervals [93]:
+			 xmin = 1025.4
+			 xmax = 1032.92
+			 text = "fresh. I love the tang coming through that lemon and then you | get the heat of the ginger. Lemon and ginger can so easily"
+		 intervals [94]:
+			 xmin = 1032.92
+			 xmax = 1043.76
+			 text = "overtake and you've got it just perfectly. You have made a | very deceiving biscuit. It looks simple, but cappale. So"
+		 intervals [95]:
+			 xmin = 1043.76
+			 xmax = 1051.44
+			 text = "well done in creating a beautifully textured biscuit that | also packed full of flavour. It's a great start for me to come"
+		 intervals [96]:
+			 xmin = 1051.44
+			 xmax = 1064.38
+			 text = "in and see what you're made of. It's fantastic. Thank you. | Such a chic and sophisticated presentation. I love how"
+		 intervals [97]:
+			 xmin = 1064.38
+			 xmax = 1071.7
+			 text = "they're all completely identical. They actually look as | moored as I suspect they will taste. Thank you. We should"
+		 intervals [98]:
+			 xmin = 1071.7
+			 xmax = 1084.98
+			 text = "start with black garlic and anchovy panisse. The batter is | firm but not tough. And then you've got the creaminess of the"
+		 intervals [99]:
+			 xmin = 1084.98
+			 xmax = 1094.4
+			 text = "black garlic. So you've managed to get texture and balance, | which is what I'm always looking for, and flavour in Spain."
+		 intervals [100]:
+			 xmin = 1094.4
+			 xmax = 1101.34
+			 text = "Alona, that was absolutely delicious. Chickpea batter was | something really intelligent. I love the fact that it was"
+		 intervals [101]:
+			 xmin = 1101.34
+			 xmax = 1108.66
+			 text = "unusual, but it was cooked absolutely perfectly. Love big | flavour. You get that from the aioli and of course the"
+		 intervals [102]:
+			 xmin = 1108.66
+			 xmax = 1120.02
+			 text = "anchovy on top. Carrot cake with hazelnut and the carrot, | however. I love the delicateness of the hazelnut biscuit."
+		 intervals [103]:
+			 xmin = 1120.02
+			 xmax = 1125.66
+			 text = "The textures are really beautiful because you get that | crunch, that crumble, that creaminess, and then a little"
+		 intervals [104]:
+			 xmin = 1125.66
+			 xmax = 1131.94
+			 text = "bit of chew with the carrot. So you really created a | wonderful journey with the textures. I can't wait to try"
+		 intervals [105]:
+			 xmin = 1131.94
+			 xmax = 1139.48
+			 text = "this Mont Blanc eclair because I love choux pastry, I love | chestnut and I love chocolate. Wow, I mean, just feeling"
+		 intervals [106]:
+			 xmin = 1139.48
+			 xmax = 1149.44
+			 text = "them, you can feel they're well filled. The unsweetened | chestnut, it's just fantastic because, you know, chestnut"
+		 intervals [107]:
+			 xmin = 1149.44
+			 xmax = 1158.46
+			 text = "is so rich and it can be cloying, but it's not. Really well | done. The choux pastry, nice and crispy, and the glaze on top"
+		 intervals [108]:
+			 xmin = 1158.46
+			 xmax = 1166.96
+			 text = "is beautiful. If I had asked my favourite, I would have to go | to the bottom drawer. I would second that. The bottom one is"
+		 intervals [109]:
+			 xmin = 1166.96
+			 xmax = 1179.78
+			 text = "absolutely my favourite. I think you've discovered who | your number one fan show these are. You've presented them"
+		 intervals [110]:
+			 xmin = 1179.78
+			 xmax = 1186.48
+			 text = "beautifully. The scone with the salmon and the roe and the | furikaki looks just so moorish. Alright, we're going to"
+		 intervals [111]:
+			 xmin = 1186.48
+			 xmax = 1196.98
+			 text = "have a scone. Wow, Laura, back in London, we never had any | flavours like this with our scones. Very traditional. I"
+		 intervals [112]:
+			 xmin = 1196.98
+			 xmax = 1204.66
+			 text = "love the saltiness, I love the savouriness, the umami. It's | the perfect start to a high tea. Thank you. The salmon with"
+		 intervals [113]:
+			 xmin = 1204.66
+			 xmax = 1211.18
+			 text = "the furikaki and then the salmon roe, because they like | explode in your mouth. So you're adding like another"
+		 intervals [114]:
+			 xmin = 1211.18
+			 xmax = 1217.64
+			 text = "sensation to the person eating it. I think that's really | clever. I think it's another take on a scone and one that I"
+		 intervals [115]:
+			 xmin = 1217.64
+			 xmax = 1230.64
+			 text = "would have any day. Picky. The Jasmine Tea Biscuit next. The | biscuit is really fantastic. You've got that goldenness in"
+		 intervals [116]:
+			 xmin = 1230.64
+			 xmax = 1242.22
+			 text = "it that gives it that nice crispness. And the lychee just | lifts everything. Alright, the kaya jam milfe. That kaya"
+		 intervals [117]:
+			 xmin = 1242.22
+			 xmax = 1248.96
+			 text = "jam, it's got that pandem flavour, but also you've got a bit | of saltiness going on there, which is what you want in the"
+		 intervals [118]:
+			 xmin = 1248.96
+			 xmax = 1258.42
+			 text = "kaya jam. The pastry is beautifully flaky. It really is | good. Thank you. Laura, you always nail the flavours of"
+		 intervals [119]:
+			 xmin = 1258.42
+			 xmax = 1264.5
+			 text = "Southeast Asia. It's delicious, it works really well | together. I love the textures. Well done again. Thank you."
+		 intervals [120]:
+			 xmin = 1264.5
+			 xmax = 1273.58
+			 text = "What I love about Sterling and Rachel is they leave no scone | unturned. Thank you so much. Thank you. I'm feeling so"
+		 intervals [121]:
+			 xmin = 1273.58
+			 xmax = 1280.28
+			 text = "relieved. That's done. It was a big task. I'm really proud of | myself that I put up something beautiful and very"
+		 intervals [122]:
+			 xmin = 1280.28
+			 xmax = 1286.08
+			 text = "delicious. I was really proud with how the bake went today. | Heading into the technical, I really hope I can keep the good"
+		 intervals [123]:
+			 xmin = 1286.08
+			 xmax = 1293.46
+			 text = "momentum going. But who knows what we've got in store with | Maggie here. I'm prepared for whatever comes my way"
+		 intervals [124]:
+			 xmin = 1293.46
+			 xmax = 1319.2
+			 text = "tomorrow. And I'm going to go in with the same positivity I | had today. Bakers. The technical bakers here for the final"
+		 intervals [125]:
+			 xmin = 1319.2
+			 xmax = 1328.66
+			 text = "time. In being the finale, it is the trickiest technical | bake known to all of humankind. This very special challenge"
+		 intervals [126]:
+			 xmin = 1328.66
+			 xmax = 1338.92
+			 text = "has been set by real life angel Maggie Beard. Maggie, any | hints for our bakers? Don't crumble under pressure. Give it"
+		 intervals [127]:
+			 xmin = 1338.92
+			 xmax = 1352.56
+			 text = "a slap. What? Be firm. That's all. Judges, it's time for you | to leave the shed so we can gossip about you behind your back."
+		 intervals [128]:
+			 xmin = 1352.56
+			 xmax = 1360.8
+			 text = "Good luck everyone. Good luck. Good luck guys. Now that | they've gone, I can reveal to you that the judges would like"
+		 intervals [129]:
+			 xmin = 1360.8
+			 xmax = 1370.02
+			 text = "you to make Maggie Beard's Guinea Fowl Turin. Maggie's | Turin is made from a special short crust pastry with whole"
+		 intervals [130]:
+			 xmin = 1370.02
+			 xmax = 1378.24
+			 text = "wheat flour. Inside, there are six separate layers. | Panchetta, marinated Guinea Fowls, apricots, and three"
+		 intervals [131]:
+			 xmin = 1378.24
+			 xmax = 1387.88
+			 text = "very special layers traditionally called sparse. Sort of | like the sparse of me having to remember all of that. Bakers,"
+		 intervals [132]:
+			 xmin = 1387.88
+			 xmax = 1403.04
+			 text = "you have three hours to make Maggie Beard's Guinea Fowl | Turin. On your mark, get set, face! Three pages. Three. Lots"
+		 intervals [133]:
+			 xmin = 1403.04
+			 xmax = 1409.08
+			 text = "of very classic Maggie-type ingredients. So looking | forward to seeing how it all comes together, it's generally"
+		 intervals [134]:
+			 xmin = 1409.08
+			 xmax = 1417.28
+			 text = "very tasty. Our finale steak bake has been set by Maggie | Beard, which seems very surreal. It's the team, I guess,"
+		 intervals [135]:
+			 xmin = 1417.28
+			 xmax = 1432.06
+			 text = "that it's the hardest technical weapon. Here's my Guinea | Fowl Turin and red onion and kumquat mamanade. Wow! That is"
+		 intervals [136]:
+			 xmin = 1432.06
+			 xmax = 1444.46
+			 text = "amazing. Look at that crust. It's a short crust pastry, but | using wholemeal flour. Oh, there you are. How beautiful are"
+		 intervals [137]:
+			 xmin = 1444.46
+			 xmax = 1451.08
+			 text = "those layers? So we have the very finest layer of the | panchetta. Then we have the fars, then the Guinea Fowl"
+		 intervals [138]:
+			 xmin = 1451.08
+			 xmax = 1458.2
+			 text = "Brifts, and of course the dried apricots from my orchard. | And what's the fars made of? Well, the fars is made of Guinea"
+		 intervals [139]:
+			 xmin = 1458.2
+			 xmax = 1467.86
+			 text = "Fowl leg, pork belly and pork fat. If you don't get that | cohesion of the fars, it will never work, and you have to slap"
+		 intervals [140]:
+			 xmin = 1467.86
+			 xmax = 1476.64
+			 text = "it. Until it's fatty and sticky, or else it'll be crumbly. | Okay. Yes, let me give you some. Oh, thank you. I love the"
+		 intervals [141]:
+			 xmin = 1476.64
+			 xmax = 1492.6
+			 text = "colour in your marmalade. It's like bright red and orange. | So inviting. Maggie, wow. You're so naughty. Naughty?"
+		 intervals [142]:
+			 xmin = 1492.6
+			 xmax = 1500.06
+			 text = "There's lots of work in there. This is so delicious, but such | a challenge. Oh, thank you. It's so delicious. That pastry"
+		 intervals [143]:
+			 xmin = 1500.06
+			 xmax = 1507.5
+			 text = "just melts in your mouth. And then you have that contrast of | textures with the fars and the apricots and pistachios just"
+		 intervals [144]:
+			 xmin = 1507.5
+			 xmax = 1513.88
+			 text = "add that crunch and texture. The bakers are definitely | going to have a tough time doing this in three hours. But we"
+		 intervals [145]:
+			 xmin = 1513.88
+			 xmax = 1521.48
+			 text = "wanted to challenge our bakers with the very best, and I | think Maggie has absolutely brought that in space. I just"
+		 intervals [146]:
+			 xmin = 1521.48
+			 xmax = 1531.98
+			 text = "hope that they embrace it and love it. So I'm just making my | pastry at the moment, pulsing the flour and the lard"
+		 intervals [147]:
+			 xmin = 1531.98
+			 xmax = 1538.0
+			 text = "together, and we'll add the butter and sour cream and then | chuck it in the french tarette. I've never made a terrine"
+		 intervals [148]:
+			 xmin = 1538.0
+			 xmax = 1548.06
+			 text = "before. I have made a short crust with lard, so I feel that | that's something. And I'm just going to try and trust my gut."
+		 intervals [149]:
+			 xmin = 1548.06
+			 xmax = 1555.8
+			 text = "Maggie's first clue about not crumbling under pressure is | about this pastry. Wholemeal flour tends to crumble a"
+		 intervals [150]:
+			 xmin = 1555.8
+			 xmax = 1580.54
+			 text = "little bit because it's got a lot less gluten than regular | plain flour. So it can be a bit tricky to work with. Oh! I'm"
+		 intervals [151]:
+			 xmin = 1580.54
+			 xmax = 1592.58
+			 text = "just preparing my guinea fowl breast for marination. Have | you cooked with guinea fowl before? I think that what I'm"
+		 intervals [152]:
+			 xmin = 1592.58
+			 xmax = 1603.92
+			 text = "doing right now shows you. No. I feel like this is a dish for | Bernard. Oh, he might like this, sure, yeah. Guinea fowl"
+		 intervals [153]:
+			 xmin = 1603.92
+			 xmax = 1616.34
+			 text = "breast marinade is completed with juniper and orange. Then | the most difficult step begins. Fuff. Fuff is a whipped up"
+		 intervals [154]:
+			 xmin = 1616.34
+			 xmax = 1624.42
+			 text = "meat and aromatic mixture, like a sausage mix almost that | kind of pads out the terrine. This softening the onions and"
+		 intervals [155]:
+			 xmin = 1624.42
+			 xmax = 1632.06
+			 text = "the garlic here and about to add some burgers. Maggie's fast | has no less than 17 different ingredients, including"
+		 intervals [156]:
+			 xmin = 1632.06
+			 xmax = 1646.62
+			 text = "herbs, orange rind, guinea fowl and pork fat. And to bring it | together, a cheeky technique. I am fuffing my fast. I have no"
+		 intervals [157]:
+			 xmin = 1646.62
+			 xmax = 1665.4
+			 text = "idea if I'm doing this right or how. So when we're supposed to | do it, I really have no clue. That's such an awesome record."
+		 intervals [158]:
+			 xmin = 1665.4
+			 xmax = 1675.04
+			 text = "This is quite fun. It's also helping to manage my anxiety | right now. I feel like it's come together. Hey, what you"
+		 intervals [159]:
+			 xmin = 1675.04
+			 xmax = 1684.14
+			 text = "doing? Just flapping my fast. Why? Apparently we're doing | this until the fat can yield. Does that work on like..."
+		 intervals [160]:
+			 xmin = 1684.14
+			 xmax = 1694.5
+			 text = "Instead of going to the gym? Yes. If you just let me a number of | times, Natalie? Yeah. I'm willing to find out. Oh, gosh. I"
+		 intervals [161]:
+			 xmin = 1694.5
+			 xmax = 1701.14
+			 text = "think I've slapped the fast enough, yes. I'm going into the | fridge to chill. I'm going to get some cold. Bakers, you have"
+		 intervals [162]:
+			 xmin = 1701.14
+			 xmax = 1712.76
+			 text = "the length of time. It would take me to list 20% of Maggie | Beers' accomplishments. Two hours. You have two hours."
+		 intervals [163]:
+			 xmin = 1712.76
+			 xmax = 1718.38
+			 text = "It's very important to get this bit right. Because the | pastry is what's holding everything together. The pastry"
+		 intervals [164]:
+			 xmin = 1718.38
+			 xmax = 1727.5
+			 text = "must be rolled and cut so the terrene assembly can begin. Why | in the basin find the pastry with pancetta? It's slightly"
+		 intervals [165]:
+			 xmin = 1727.5
+			 xmax = 1737.72
+			 text = "overlapping. This is the marinated guinea fowl breast. | It's... I think the clue, B-Firm, is about making sure that"
+		 intervals [166]:
+			 xmin = 1737.72
+			 xmax = 1743.8
+			 text = "the terrene firmly packs. It's important for the balance of | flavour, the structure of the terrene, and to make sure"
+		 intervals [167]:
+			 xmin = 1743.8
+			 xmax = 1755.22
+			 text = "you've got nice, even layers. Then I'm going on with spas and | the apricots. These apricots are straight from the"
+		 intervals [168]:
+			 xmin = 1755.22
+			 xmax = 1764.22
+			 text = "orchards of Maggie Beers, which is... Does most special | thing ever? Looks like it will fit, which is lovely. Got to"
+		 intervals [169]:
+			 xmin = 1764.22
+			 xmax = 1781.3
+			 text = "roll my lid out, John. Good touch. Arrange pastry leaves in | the centre. Can't believe I'm putting... my final tech bake"
+		 intervals [170]:
+			 xmin = 1781.3
+			 xmax = 1805.34
+			 text = "in the oven. It feels pretty good. Lovely. The terrene will | bake for up to an hour. So the bakers move on to the onion and"
+		 intervals [171]:
+			 xmin = 1805.34
+			 xmax = 1816.08
+			 text = "come quite marmalade. My favourite thing baking in the set. | I've loved every minute of this, and I don't want it to end."
+		 intervals [172]:
+			 xmin = 1816.08
+			 xmax = 1830.82
+			 text = "Oh, my God. Cook, please. I love the colour. You can't really | control. What's happening in the oven? You've got to touch"
+		 intervals [173]:
+			 xmin = 1830.82
+			 xmax = 1838.94
+			 text = "your waist. Baker Rooves! You have 30 minutes to come up with | a better nickname than Baker Rooves! Also for your bake."
+		 intervals [174]:
+			 xmin = 1838.94
+			 xmax = 1846.24
+			 text = "Probably concentrate on your bake. Do that one. Alright, | that's not even close. Sorry, it's going to be quite a while."
+		 intervals [175]:
+			 xmin = 1846.24
+			 xmax = 1853.06
+			 text = "It's going to wait. It's going to wait. Take it easy. I think | you should do a sedochial or something if you've got this"
+		 intervals [176]:
+			 xmin = 1853.06
+			 xmax = 1861.46
+			 text = "kind of time. Maybe we can just do some northern crosses. | Northern crosses. Alright. It's been so long since I've"
+		 intervals [177]:
+			 xmin = 1861.46
+			 xmax = 1875.16
+			 text = "played this game. I'm going to go get some more. The bakers | must find the perfect balance between cooking and cooling."
+		 intervals [178]:
+			 xmin = 1875.16
+			 xmax = 1884.94
+			 text = "I don't know. The temperature gauge is going up and down. The | terrain needs time to rest. Or it could crumble when coming"
+		 intervals [179]:
+			 xmin = 1884.94
+			 xmax = 1908.56
+			 text = "out of the tin. Baker, two minutes to go. You should be | getting your terrains out of the mould. Please don't fall"
+		 intervals [180]:
+			 xmin = 1908.56
+			 xmax = 1937.2
+			 text = "apart. Okay. Okay. Not long to go, Bacon. Looking pretty | good. I'm holding together. Ten, nine, eight, seven, six,"
+		 intervals [181]:
+			 xmin = 1937.2
+			 xmax = 1950.92
+			 text = "five, four, three, two, one. Hands off your terrains. And | well done. Bacon, could you please bring your terrains to"
+		 intervals [182]:
+			 xmin = 1950.92
+			 xmax = 1973.0
+			 text = "the table? Oh God, how do you get it? The last one. Okay, | useful. We're looking at a photo. Who will have that? For the"
+		 intervals [183]:
+			 xmin = 1973.0
+			 xmax = 1988.7
+			 text = "final time, the judges will blind taste the technical | bakes. Oh, look at them. Well, Rachel and Darren told me that"
+		 intervals [184]:
+			 xmin = 1988.7
+			 xmax = 2005.84
+			 text = "no matter how hard this was, you do it brilliantly. And I am | thrilled by what I see. So well done. They were so right. All"
+		 intervals [185]:
+			 xmin = 2005.84
+			 xmax = 2018.48
+			 text = "right, shall we start? It's so beautifully golden. It is | very neatly done. The little leaves are lovely. The"
+		 intervals [186]:
+			 xmin = 2018.48
+			 xmax = 2038.5
+			 text = "tension. It really tastes good. I'm certainly getting the | citrus, but the seasoning's not quite strong enough. The"
+		 intervals [187]:
+			 xmin = 2038.5
+			 xmax = 2046.22
+			 text = "pastry, oh, it crumbles in your mouth. Inside the fast, the | proteins have bound together, and it's a really well"
+		 intervals [188]:
+			 xmin = 2046.22
+			 xmax = 2050.62
+			 text = "constructed terrain. Unfortunately, the master of the | bakes is a little bit more caramelised, not quite as vibrant"
+		 intervals [189]:
+			 xmin = 2050.62
+			 xmax = 2063.56
+			 text = "as Maggie's. All right, let's try the next one. This | Guinness Outerene looks beautiful. Oh, it's a nice crumbly"
+		 intervals [190]:
+			 xmin = 2063.56
+			 xmax = 2082.909
+			 text = "feeling as I cut into that pastry. Wow. Beautiful layers of | the apricot, guinea fowl and the pistachio. The paste is"
+		 intervals [191]:
+			 xmin = 2082.909
+			 xmax = 2089.989
+			 text = "superb. I would have liked the marmalade cooked a little | more. There's a brightness of colour that comes from"
+		 intervals [192]:
+			 xmin = 2089.989
+			 xmax = 2098.15
+			 text = "cooking it that bit further, but all in all, another very | good job. I love the texture of the farce. They've done some"
+		 intervals [193]:
+			 xmin = 2098.15
+			 xmax = 2110.29
+			 text = "good slapping. I didn't think I'd ever say that on a baking | show before. The top is particularly neat and pretty. The"
+		 intervals [194]:
+			 xmin = 2110.29
+			 xmax = 2119.37
+			 text = "marmalade is really eye-catching, that colour. I mean, | it's almost matching. This is better than mine. This is like"
+		 intervals [195]:
+			 xmin = 2119.37
+			 xmax = 2128.15
+			 text = "a jewel. I can't wait any longer. I'm going to cut into this. | All right, all right. Go on. OK, what will it reveal? I'm"
+		 intervals [196]:
+			 xmin = 2128.15
+			 xmax = 2140.19
+			 text = "making some of the toy inside. OK, here we go, guys. Look at | that. We've done very well with the layers. It looks like the"
+		 intervals [197]:
+			 xmin = 2140.19
+			 xmax = 2157.29
+			 text = "farce is really well held together. I think it looks really | good. Well done. Fantastic onion and kankwa marmalade. The"
+		 intervals [198]:
+			 xmin = 2157.29
+			 xmax = 2164.75
+			 text = "pastry, the pie, it is so flaky and crumbly. I mean, it's | awesome what they've done here. I think the farce is really"
+		 intervals [199]:
+			 xmin = 2164.75
+			 xmax = 2173.17
+			 text = "well made, and it's cooked really, really well. Absolutely | sensational piece of work. Well, Bakers, there's almost"
+		 intervals [200]:
+			 xmin = 2173.17
+			 xmax = 2186.13
+			 text = "nothing in this. It's like trying to choose who is your | favourite child. That's how close it is. Really well done."
+		 intervals [201]:
+			 xmin = 2186.13
+			 xmax = 2197.85
+			 text = "The judges will now rate the Bakes from first to third. In | third position. Laura, it was absolutely delicious. It was"
+		 intervals [202]:
+			 xmin = 2197.85
+			 xmax = 2209.53
+			 text = "so close, but the marmalade just let this down a little bit. | In second position. In third position. Elona. The fineness"
+		 intervals [203]:
+			 xmin = 2209.53
+			 xmax = 2220.77
+			 text = "of those layers of the pastry is so exciting, me. So thank | you. That means in first position, it's Adam. Woo!"
+		 intervals [204]:
+			 xmin = 2220.77
+			 xmax = 2230.53
+			 text = "Surprise, surprise. Mate, what's that? Five now, you've | won. I'm a little bit speechless, but really happy. I'm"
+		 intervals [205]:
+			 xmin = 2230.53
+			 xmax = 2244.33
+			 text = "proud. That farce was the hardest part of this whole dish, | and you nailed it. So well done. Thank you. I can't believe"
+		 intervals [206]:
+			 xmin = 2244.33
+			 xmax = 2251.21
+			 text = "I've won my fifth technical, but I've won a technical set by | every single judge that has come through this season. It's"
+		 intervals [207]:
+			 xmin = 2251.21
+			 xmax = 2260.59
+			 text = "literally a dream come true. I am thrilled for this. There is | nothing between us, and it really does come down to"
+		 intervals [208]:
+			 xmin = 2260.59
+			 xmax = 2268.27
+			 text = "tomorrow's showstopper. I just want to go in there and have | fun. Final ever showstopper is so crazy to me, say it like"
+		 intervals [209]:
+			 xmin = 2268.27
+			 xmax = 2273.43
+			 text = "that. I'm going to put my best foot forward, do something | that is really true to myself, and hopefully do myself"
+		 intervals [210]:
+			 xmin = 2273.43
+			 xmax = 2304.11
+			 text = "proud. Our finalists are preparing to enter the shed for one | last time. Perfect weather for nice hot cup of tea. Bake off"
+		 intervals [211]:
+			 xmin = 2304.11
+			 xmax = 2312.27
+			 text = "shines even on a rainy day. It's been a very lovely thing for | me to walk back in and just have this little glimpse of you"
+		 intervals [212]:
+			 xmin = 2312.27
+			 xmax = 2319.65
+			 text = "all. Maggie, you really put them to the test with your guinea | fowl terrine. And I take my head off to them, because if I were"
+		 intervals [213]:
+			 xmin = 2319.65
+			 xmax = 2328.23
+			 text = "given a recipe like that, I'd freak out. They're so close at | the moment. It's hardly anything in it. You're so right."
+		 intervals [214]:
+			 xmin = 2328.23
+			 xmax = 2336.83
+			 text = "Each one of them is so talented. Adam, it's no wonder his | confidence has grown five times. He's come first in"
+		 intervals [215]:
+			 xmin = 2336.83
+			 xmax = 2345.95
+			 text = "technical. He's literally riding that technical wave. | Laura manages to think of his concept, think of a story, and"
+		 intervals [216]:
+			 xmin = 2345.95
+			 xmax = 2355.73
+			 text = "she expressed that story in her bag. What I love about Eloda | is how well she can come up with a concept and then translate"
+		 intervals [217]:
+			 xmin = 2355.73
+			 xmax = 2361.95
+			 text = "that into beautiful bags. One of the nicest things is that | everyone's become friends while they're in the shed. The"
+		 intervals [218]:
+			 xmin = 2361.95
+			 xmax = 2370.45
+			 text = "little pit talks and reassurance, it's really lovely. You | know, over the years, I've seen all the ups and downs and the"
+		 intervals [219]:
+			 xmin = 2370.45
+			 xmax = 2376.99
+			 text = "surprises, and it comes down to the showstopper. I'll tell | you what my prediction is. It's going to be either Adam,"
+		 intervals [220]:
+			 xmin = 2376.99
+			 xmax = 2407.61
+			 text = "Elona, or Laura. Oh, wow. Oh, my gosh. So beautiful. Long | ago. Good luck. I love you. Have a good time. Bacon. It's"
+		 intervals [221]:
+			 xmin = 2407.61
+			 xmax = 2416.33
+			 text = "official. It's the last ever showstopper. What that means | is Natalie and I will be eating as much leftover cake as we can"
+		 intervals [222]:
+			 xmin = 2416.33
+			 xmax = 2430.01
+			 text = "and stealing anything that's not locked down. Obviously, | I'm just kidding. By tonight, one of you will be crowned"
+		 intervals [223]:
+			 xmin = 2430.01
+			 xmax = 2437.71
+			 text = "Australia's best amateur baker. For your final | showstopper, the judges would like you to make a 3D illusion"
+		 intervals [224]:
+			 xmin = 2437.71
+			 xmax = 2445.11
+			 text = "cake. A cake designed to look like something else entirely. | This is just an excuse to make Darren feel better because he"
+		 intervals [225]:
+			 xmin = 2445.11
+			 xmax = 2452.47
+			 text = "keeps walking around eating inanimate objects going, I | thought it was cake. It was a button, Darren. We all knew it"
+		 intervals [226]:
+			 xmin = 2452.47
+			 xmax = 2462.11
+			 text = "was a button. Your showstopping illusion cake can be any | flavor, design, or style you like. So, bakers, go wild."
+		 intervals [227]:
+			 xmin = 2462.11
+			 xmax = 2470.69
+			 text = "Judges, any hints for our bakers? Bake with joy in your heart | and a springtour, kitchen twack if you've got this. Have fun"
+		 intervals [228]:
+			 xmin = 2470.69
+			 xmax = 2480.41
+			 text = "today and use the positive energy from your last day in this | shed to produce your best bake yet. I can't tell you how"
+		 intervals [229]:
+			 xmin = 2480.41
+			 xmax = 2488.01
+			 text = "excited we all are because you're going to give us something | so brilliant that it's going to be so hard to decide between"
+		 intervals [230]:
+			 xmin = 2488.01
+			 xmax = 2500.53
+			 text = "you. So, give it all your love. Bacon, you have four hours to | bake your illusion cake showstopper. On your mark, get set,"
+		 intervals [231]:
+			 xmin = 2500.53
+			 xmax = 2520.29
+			 text = "bake! Wow, wow, my mountain of butt up. Looks ridiculous. | Today, I am making a vase of flowers, clearly inspired by"
+		 intervals [232]:
+			 xmin = 2520.29
+			 xmax = 2528.59
+			 text = "what's around the shed. This is literally the first time I | have attempted an illusion cake before. I chose"
+		 intervals [233]:
+			 xmin = 2528.59
+			 xmax = 2536.09
+			 text = "gingerbread cake because it's going to pack a punch. But | more importantly, this is quite a dense, tight clump, which"
+		 intervals [234]:
+			 xmin = 2536.09
+			 xmax = 2553.29
+			 text = "means it's really easy to carve. Oops, very much cake. | Hello, Adam. Hello. Last time. Oh, no. I loved it. Two mixes,"
+		 intervals [235]:
+			 xmin = 2553.29
+			 xmax = 2560.33
+			 text = "you know. Makes you look very professional. Yeah, I started | with one. It was a little bit too much going on, as you can see,"
+		 intervals [236]:
+			 xmin = 2560.33
+			 xmax = 2568.27
+			 text = "they're both full. So, yeah, a lot of cake today. Adam's vase | will be decorated with painted fondant and handcrafted"
+		 intervals [237]:
+			 xmin = 2568.27
+			 xmax = 2576.81
+			 text = "wafer paper flowers. Inside, a lemon and thyme cake will be | layered with blueberry compote and juniper buttercream."
+		 intervals [238]:
+			 xmin = 2576.81
+			 xmax = 2584.71
+			 text = "Juniper in the buttercream. I love the idea for that bitter | note, so it's not super sweet. I'm going to add salt to that,"
+		 intervals [239]:
+			 xmin = 2584.71
+			 xmax = 2592.61
+			 text = "so hopefully it balances the flavours out. Who of your | friends and family are coming today? My partner, Nick. Oh,"
+		 intervals [240]:
+			 xmin = 2592.61
+			 xmax = 2605.61
+			 text = "sorry. He's a little... Thank you. Oh, come on, man. Well, | you said you wanted salt in your bag. Yeah, exactly. This is"
+		 intervals [241]:
+			 xmin = 2605.61
+			 xmax = 2616.67
+			 text = "how I'm going to balance the flavours. Oh. So much luck. | Thank you. That's a lot. Thank you. You're welcome. Oh, God."
+		 intervals [242]:
+			 xmin = 2616.67
+			 xmax = 2625.43
+			 text = "For my illusion cake today, I'm making a little Hawker | coffee breakfast scene, which I'm calling kopitiam, which"
+		 intervals [243]:
+			 xmin = 2625.43
+			 xmax = 2634.73
+			 text = "means coffee shop in Hokkien. Laura's Hawker breakfast | will include two cups made from coffee sponge with an Irish"
+		 intervals [244]:
+			 xmin = 2634.73
+			 xmax = 2643.87
+			 text = "liqueur jelly top. Brown butter sponge eggs will be coated | in gold chocolate. The takeaway coffee bag will be made from"
+		 intervals [245]:
+			 xmin = 2643.87
+			 xmax = 2653.12
+			 text = "dark chocolate coated sponge, surrounded in rice paper, | with hazelnut liqueur jelly ice cubes. I love this idea. I"
+		 intervals [246]:
+			 xmin = 2653.12
+			 xmax = 2658.81
+			 text = "mean, it brings back memories of me going to visit my | relatives in Malaysia. I haven't seen your Hawker stall in"
+		 intervals [247]:
+			 xmin = 2658.81
+			 xmax = 2666.53
+			 text = "this style, so I need more information. They used to serve | takeaway coffees in sort of little freezer bags. Okay. And"
+		 intervals [248]:
+			 xmin = 2666.53
+			 xmax = 2672.65
+			 text = "they'd pour the coffee in the bag with the ice cubes in the | bag, and you'd walk around just the market with sipping on"
+		 intervals [249]:
+			 xmin = 2672.65
+			 xmax = 2690.39
+			 text = "your coffee. That sounds so ambitious. It works in my head. | That's how it comes together for you today. See, good. There"
+		 intervals [250]:
+			 xmin = 2690.39
+			 xmax = 2702.63
+			 text = "we go. With the tiding on the line, the bag is must whiz, whiz | and blend to create finale-worthy fillings and toppings."
+		 intervals [251]:
+			 xmin = 2702.63
+			 xmax = 2713.15
+			 text = "I'm making a mandarin jam for my mandarin. I like the play on | the fillings being the fruit that I'm modelling. In a way, I"
+		 intervals [252]:
+			 xmin = 2713.15
+			 xmax = 2720.79
+			 text = "hope people feel like they're actually eating into the real | thing. Alona will sculpt gingerbread cake filled with jam"
+		 intervals [253]:
+			 xmin = 2720.79
+			 xmax = 2728.89
+			 text = "in the form of various fruits. Kiwi, banana and mandarin. | She will also create an onion containing gold chocolate"
+		 intervals [254]:
+			 xmin = 2728.89
+			 xmax = 2737.55
+			 text = "ganache. All the fruit will be covered in marzipan and | hand-painted. Oh, you've already made it. You're so quick,"
+		 intervals [255]:
+			 xmin = 2737.55
+			 xmax = 2745.57
+			 text = "Alona. I'm so impressed. It's amazing. It's just like the | real thing. So your flavours are all around the gingerbread"
+		 intervals [256]:
+			 xmin = 2745.57
+			 xmax = 2753.15
+			 text = "and then the fruit and the jam to give the sweetness. I hope | that there's sharpness in my jams as well, so that it's not"
+		 intervals [257]:
+			 xmin = 2753.15
+			 xmax = 2762.97
+			 text = "overly sweet. I'm choosing not to use fondant today. I'm | modelling with marzipan. It really looks organic. Good"
+		 intervals [258]:
+			 xmin = 2762.97
+			 xmax = 2775.23
+			 text = "luck. Good luck, Alona. Thank you so much. I've got an Irish | cream jelly and I have a hazelnut peculiar jelly. Very hot,"
+		 intervals [259]:
+			 xmin = 2775.23
+			 xmax = 2784.11
+			 text = "very, very, very, very, very, very, very hot. Hello. How are | you? Good. So you've made things inspired by your family."
+		 intervals [260]:
+			 xmin = 2784.11
+			 xmax = 2791.77
+			 text = "Any of them going to be joining us? My mum will be joining us. | I'm really excited to be in the shed and to see what's been"
+		 intervals [261]:
+			 xmin = 2791.77
+			 xmax = 2799.75
+			 text = "going on. My mum thinks I make a testin on the show, so... | Lovely. My mum is very surprised I'm still here. I've got my"
+		 intervals [262]:
+			 xmin = 2799.75
+			 xmax = 2805.55
+			 text = "Swiss meringue buttercream on the way and the blueberry | compost, which is almost done. There's a lot going on at the"
+		 intervals [263]:
+			 xmin = 2805.55
+			 xmax = 2821.21
+			 text = "moment, but I think it's tracking OK. Right. Set little | jetties. Fingers! Lights your cake. Time is an illusion."
+		 intervals [264]:
+			 xmin = 2821.21
+			 xmax = 2828.09
+			 text = "You've got to tell them how long we've got. Sorry. You're | halfway. You've got two hours to go. Oh, crap. It's going so"
+		 intervals [265]:
+			 xmin = 2828.09
+			 xmax = 2837.43
+			 text = "fast. This is my marzipan. It's just setting a little bit of | almond extract. It's super strong. We're out of the oven."
+		 intervals [266]:
+			 xmin = 2837.43
+			 xmax = 2849.27
+			 text = "Lovely. What's the cake happening today? Good. They're | beautifully moist and fluffy, and I think they're the"
+		 intervals [267]:
+			 xmin = 2849.27
+			 xmax = 2862.11
+			 text = "perfect texture for carving. So I'm just carving up the | sections of the cake to make the bars, and that's fun. The"
+		 intervals [268]:
+			 xmin = 2862.11
+			 xmax = 2868.27
+			 text = "construction will be the tricky part. One of the most | important parts of a hawker breakfast is the soft-boiled"
+		 intervals [269]:
+			 xmin = 2868.27
+			 xmax = 2877.89
+			 text = "egg. I'm going to mash up some of this cake and make it look | like an egg yolk. I'm having fun. I actually feel like this is"
+		 intervals [270]:
+			 xmin = 2877.89
+			 xmax = 2886.93
+			 text = "my thing. There's meek and bananas out of cake, you know, | just the usual. Inside the shed, assembly is in full swing."
+		 intervals [271]:
+			 xmin = 2886.93
+			 xmax = 2893.81
+			 text = "Maybe if I need someone to speak, I might need your help. | Outside, all of our wonderful bakers arrive to give the"
+		 intervals [272]:
+			 xmin = 2893.81
+			 xmax = 2904.25
+			 text = "finalists some much-needed support. Oh, my God. I'm going | to go into view today. How are you? Yeah. I love your work."
+		 intervals [273]:
+			 xmin = 2904.25
+			 xmax = 2913.51
+			 text = "That's just awesome. I can't wait to see it all put together. | I should see you all. Oh, my God. Keep it up. Oh, thank you so"
+		 intervals [274]:
+			 xmin = 2913.51
+			 xmax = 2922.09
+			 text = "much. Are we in the chairs or the couch? If I get in there, I | might want to get out. Can we eat that? No. Having the"
+		 intervals [275]:
+			 xmin = 2922.09
+			 xmax = 2928.63
+			 text = "contestants back in here, it's full of energy again in the | shed, and it's really a beautiful thing. I just felt like"
+		 intervals [276]:
+			 xmin = 2928.63
+			 xmax = 2941.91
+			 text = "you've been watched. Nothing like an audience. When the | judges cut this open, I'm hoping they see some nice, clean"
+		 intervals [277]:
+			 xmin = 2941.91
+			 xmax = 2951.79
+			 text = "layers. This is one of the coffee cups. I'm just covering it | in a crumb coat at the moment. I've carved a little bit off so"
+		 intervals [278]:
+			 xmin = 2951.79
+			 xmax = 2962.19
+			 text = "that it's a little bit rounded. I'm blowing up some water | balloons. They're going to be the mould for my kiwi fruits."
+		 intervals [279]:
+			 xmin = 2962.19
+			 xmax = 2969.21
+			 text = "I'm going to dip them in white chocolate that's been dyed | green, and then I'm going to dust them with cocoa. Elena,"
+		 intervals [280]:
+			 xmin = 2969.21
+			 xmax = 2984.81
+			 text = "that looks fantastic. I want to try it. I've never used this | much fondant before. It needs to warm up a bit. I'm just"
+		 intervals [281]:
+			 xmin = 2984.81
+			 xmax = 2990.71
+			 text = "shaping some rice paper into sort of bag shapes over these | moulds. And then I'm going to fill the little hunk of cake"
+		 intervals [282]:
+			 xmin = 2990.71
+			 xmax = 2998.11
+			 text = "with a cup of ganache to make it look like a dark coffee. I | think I'm tracking okay. I'm going to start making some"
+		 intervals [283]:
+			 xmin = 2998.11
+			 xmax = 3011.33
+			 text = "onion skins. I paint it with colour and water. And I drape it | on onion. This looks very exciting. We were hoping to get you"
+		 intervals [284]:
+			 xmin = 3011.33
+			 xmax = 3025.41
+			 text = "another cat photo. Yes. But we ran out of cat, so we had to make | one of our own. It actually exists. I think Darren was a"
+		 intervals [285]:
+			 xmin = 3025.41
+			 xmax = 3035.21
+			 text = "little like nice and some whiskers would be fabulous. I'm | going to leave it on with the onion. Good luck. Thank you."
+		 intervals [286]:
+			 xmin = 3035.21
+			 xmax = 3043.79
+			 text = "White sneakers on a rainy day. Oh, mate. I think the best | thing about using fondant, it gives you that nice smooth"
+		 intervals [287]:
+			 xmin = 3043.79
+			 xmax = 3053.01
+			 text = "finish. This is the one that's is non-negotiable that I have | to get done. Because it's so cool. If I can get it done, it's"
+		 intervals [288]:
+			 xmin = 3053.01
+			 xmax = 3063.13
+			 text = "cool. If I can't get it done, then it's nothing. Onion skins. | So this is my take away plastic bag of coffee. And I will pop"
+		 intervals [289]:
+			 xmin = 3063.13
+			 xmax = 3077.99
+			 text = "some jelly cubes in it. Bakers! 30 minutes to go. Oh my God, 30 | minutes. I've got to make as many leaves and flowers as I"
+		 intervals [290]:
+			 xmin = 3077.99
+			 xmax = 3089.59
+			 text = "possibly can. And I still need to paint the vase. You know | some aliens that way for things. Yeah, yeah. Oh, wow. With"
+		 intervals [291]:
+			 xmin = 3089.59
+			 xmax = 3127.09
+			 text = "the end in sight, the families arrive to give the finalists | some love. Oh, Lord. So proud of you. Hi, P. Hi, P. Would you"
+		 intervals [292]:
+			 xmin = 3127.09
+			 xmax = 3140.35
+			 text = "like to take a picture with me? Shut it off, I'll take a | picture. Okay, where am I? Oh, the race is finished. We'll"
+		 intervals [293]:
+			 xmin = 3140.35
+			 xmax = 3151.55
+			 text = "show it to you. I've got one onion skin left to patch on. | Hopefully it looks sort of like an onion. This is the first"
+		 intervals [294]:
+			 xmin = 3151.55
+			 xmax = 3166.73
+			 text = "time I've painted fondant like this. Bakers! You have 10 | minutes to go. Oh my gosh, it takes days and hours. Samora!"
+		 intervals [295]:
+			 xmin = 3166.73
+			 xmax = 3188.11
+			 text = "I've got a lot to do. Samora! Samora! I'm happy with it. I have | the desire as well. Bakers! One minute left. You think of"
+		 intervals [296]:
+			 xmin = 3188.11
+			 xmax = 3250.91
+			 text = "what makes the last laugh. Oh my God. 10, 9, 8, 7, 6, 5, 4, 3, 2, | 1. Yes! Adam, can you come to the front, please? Tell us what"
+		 intervals [297]:
+			 xmin = 3250.91
+			 xmax = 3258.67
+			 text = "you've made for us. I've made a vase of flowers. And so the | cake is a lemon and time cake filled with blueberry compote,"
+		 intervals [298]:
+			 xmin = 3258.67
+			 xmax = 3267.37
+			 text = "roasted salted almond, and a Swiss meringue buttercream | with juniper. It looks so pretty. I love it. I love how all the"
+		 intervals [299]:
+			 xmin = 3267.37
+			 xmax = 3276.13
+			 text = "petals have been beautifully painted. I love your vase. I | love the scale of it, the symmetry of it, and I can't wait to"
+		 intervals [300]:
+			 xmin = 3276.13
+			 xmax = 3292.49
+			 text = "taste it. There's been a lot of work gone into that. It looks | pretty amazing. I love that bright, vibrant purple from the"
+		 intervals [301]:
+			 xmin = 3292.49
+			 xmax = 3308.05
+			 text = "blueberries. It really looks appetising. Thank you. Adam, | that is absolutely delicious, mate. Really tangy lemon"
+		 intervals [302]:
+			 xmin = 3308.05
+			 xmax = 3314.25
+			 text = "sponge. The buttercream, it's really cleverly done | because it's very easy to overpower the juniper and it can"
+		 intervals [303]:
+			 xmin = 3314.25
+			 xmax = 3323.79
+			 text = "become quite bitter. For me, it's a little bit simple, but | sometimes simple is the best. I was worried about the"
+		 intervals [304]:
+			 xmin = 3323.79
+			 xmax = 3331.73
+			 text = "sweetness, but you've managed to retain a lovely tartness | in the blueberry and the lemon syrup. That's really well"
+		 intervals [305]:
+			 xmin = 3331.73
+			 xmax = 3340.17
+			 text = "balanced. The cake I love. I love citrus, and I love that it's | moist, and I love the juniper. I would have put more juniper"
+		 intervals [306]:
+			 xmin = 3340.17
+			 xmax = 3362.91
+			 text = "in, but it is such a lovely cake. Thank you, thank you. Thank | you. Ilona, please come up. My showstopper is a fruit and"
+		 intervals [307]:
+			 xmin = 3362.91
+			 xmax = 3370.05
+			 text = "vegetable still life. You certainly have created a still | life. Those bananas, they look like they're ready for some"
+		 intervals [308]:
+			 xmin = 3370.05
+			 xmax = 3383.47
+			 text = "banana bread. There is a gingerbread cake. The bananas have | banana spread filling. The kiwis have a kiwi jam filling."
+		 intervals [309]:
+			 xmin = 3383.47
+			 xmax = 3394.03
+			 text = "Wow, it looks really fun. The mandarin has a mandarin jam | filling, and the onion is filled with ganache. So this is the"
+		 intervals [310]:
+			 xmin = 3394.03
+			 xmax = 3409.09
+			 text = "banana filling. The cake has this lovely warmth and a really | nice bite to it, which I like in a gingerbread. I love the"
+		 intervals [311]:
+			 xmin = 3409.09
+			 xmax = 3422.63
+			 text = "mother pen and the banana flavor with that soft spice. So I | think you've done well. Kiwi next. I love that kiwi fruit"
+		 intervals [312]:
+			 xmin = 3422.63
+			 xmax = 3425.91
+			 text = "jam. So bright, so vibrant, and it's so delicious. It's just | so delicious. It's just so fragrant, and really it's just a"
+		 intervals [313]:
+			 xmin = 3425.91
+			 xmax = 3433.81
+			 text = "fresh flavor. Gingerbread with the kiwi, unusual | combination, but it worked very well. OK, let's try the"
+		 intervals [314]:
+			 xmin = 3433.81
+			 xmax = 3440.69
+			 text = "mandarin. It's not as realistic as your other fruit. Ilona, | do you know what it's just missing? It's taking a toothpick"
+		 intervals [315]:
+			 xmin = 3440.69
+			 xmax = 3452.53
+			 text = "and adding those little dimples, but it's beautiful. The | ginger is more dominant, and there's that lasting citrus in"
+		 intervals [316]:
+			 xmin = 3452.53
+			 xmax = 3459.81
+			 text = "the back palate that is so lovely. Gingerbread with | mandarin is such a good combination, because it really"
+		 intervals [317]:
+			 xmin = 3459.81
+			 xmax = 3468.27
+			 text = "works. Come on, let's do the onion. I'm going to do the raw | onion though. I've got some tissues if you start crying,"
+		 intervals [318]:
+			 xmin = 3468.27
+			 xmax = 3474.14
+			 text = "Darren. I've gone over the last time. Wow, what a | cross-section. She's got the guava, the mandarin, the cold"
+		 intervals [319]:
+			 xmin = 3474.14
+			 xmax = 3480.07
+			 text = "chocolate ganache going through the middle, which looks | really great. It looks like proper onion skin. It really"
+		 intervals [320]:
+			 xmin = 3480.07
+			 xmax = 3488.37
+			 text = "does. It's fabulous. This is so clever. The caramel notes | bring out that lovely gingerbread warmth. It's a delicious"
+		 intervals [321]:
+			 xmin = 3488.37
+			 xmax = 3495.27
+			 text = "combination. I'm not surprised you used that ginger cake | throughout, because it was absolutely delicious. The"
+		 intervals [322]:
+			 xmin = 3495.27
+			 xmax = 3504.05
+			 text = "presentation was absolutely spectacular, something an | old master would be proud to paint. Very well done. Thank you"
+		 intervals [323]:
+			 xmin = 3504.05
+			 xmax = 3521.25
+			 text = "very much. Thank you very much. Laura, please come up to the | table. This is gobekyang breakfast, which means hawker"
+		 intervals [324]:
+			 xmin = 3521.25
+			 xmax = 3528.23
+			 text = "coffee shop breakfast. You have two cups of coffee sponge | and a coffee buttercream. There's a jelly on top. Yes, it's"
+		 intervals [325]:
+			 xmin = 3528.23
+			 xmax = 3535.65
+			 text = "an Irish coffee jelly. All of those layers, but it's so much | fun. The soft-boiled eggs, a vanilla brown butter sponge"
+		 intervals [326]:
+			 xmin = 3535.65
+			 xmax = 3542.77
+			 text = "with the same buttercream, and the takeaway coffee bag is | coffee cake with dark chocolate. This brings back memories"
+		 intervals [327]:
+			 xmin = 3542.77
+			 xmax = 3550.75
+			 text = "for me going to see my relatives in Singapore and Malaysia. I | just love how you captured it. Fantastic job. Thank you. I"
+		 intervals [328]:
+			 xmin = 3550.75
+			 xmax = 3563.43
+			 text = "think we should try the coffee bag. Plastic. Isn't it | amazing? It's clever. The hazelnut liquor jelly goes so"
+		 intervals [329]:
+			 xmin = 3563.43
+			 xmax = 3571.17
+			 text = "well with the chocolate and then the coffee. The sponge is | really more-ish. It looks spectacular, and from now on, I'm"
+		 intervals [330]:
+			 xmin = 3571.17
+			 xmax = 3581.21
+			 text = "calling down all my drinks with hazelnut liquor. All right, | egg next. Oh, it's got a crispy shell on the outside. Oh, wow,"
+		 intervals [331]:
+			 xmin = 3581.21
+			 xmax = 3594.01
+			 text = "look at that. It's even got a little yolk. That is so cool. The | sponge has a wonderful texture and has that lovely caramel"
+		 intervals [332]:
+			 xmin = 3594.01
+			 xmax = 3601.69
+			 text = "note, and I love that you put an egg yolk in there. Again, just | fantastic attention to detail. It's not easy getting that"
+		 intervals [333]:
+			 xmin = 3601.69
+			 xmax = 3608.37
+			 text = "yolk in the center, you know? So congratulations on that. | The only way you could have possibly improved on that is if"
+		 intervals [334]:
+			 xmin = 3608.37
+			 xmax = 3615.91
+			 text = "you'd put, like, a little liquid center in there. So when we | cut through, that would have been really awesome. I love the"
+		 intervals [335]:
+			 xmin = 3615.91
+			 xmax = 3624.21
+			 text = "whimsy of this, and I see it as a hard-boiled egg that you've | cooked perfectly. So the center is sitting there. I think a"
+		 intervals [336]:
+			 xmin = 3624.21
+			 xmax = 3635.45
+			 text = "cup of coffee next. Yeah, absolutely. That crunch of the | praline with the lovely coffee flavor, it's fantastic,"
+		 intervals [337]:
+			 xmin = 3635.45
+			 xmax = 3642.87
+			 text = "thank you. Out of all the cakes, I think this is the one you've | nailed, the flavors, the textures, and the visual. Thank"
+		 intervals [338]:
+			 xmin = 3642.87
+			 xmax = 3650.21
+			 text = "you. I love the little bubbles on top of the jelly. It's just | giving that effect of freshly-frost coffee. I absolutely"
+		 intervals [339]:
+			 xmin = 3650.21
+			 xmax = 3656.07
+			 text = "love this, and it's my favorite of all of the things that | you've made on this board today. So really well done. Thank"
+		 intervals [340]:
+			 xmin = 3656.07
+			 xmax = 3669.61
+			 text = "you. Bakers, well done. Those illusion cakes were | sensational. We really love the visuals, and we love the"
+		 intervals [341]:
+			 xmin = 3669.61
+			 xmax = 3687.11
+			 text = "flavors. It's going to be so difficult for us to make a | decision. Absolutely incredible job. Well done. Looks"
+		 intervals [342]:
+			 xmin = 3687.11
+			 xmax = 3707.43
+			 text = "really good. Oh, poor. Good job. It is so good. I just have to | come and give you a hug. Congratulations, Mrs. Coulomb. Oh,"
+		 intervals [343]:
+			 xmin = 3707.43
+			 xmax = 3714.67
+			 text = "would she have thought? Thanks, happy finale. Yay! What a | night. And it's so exciting that we're allowed in the"
+		 intervals [344]:
+			 xmin = 3714.67
+			 xmax = 3723.57
+			 text = "grown-up's area as well for the first time. It's very nice | here, I like it. We've had such a magical week. We really have"
+		 intervals [345]:
+			 xmin = 3723.57
+			 xmax = 3730.77
+			 text = "been impressed by all of the three finalists. And to have | Maggie back as well has just been icing on the cake. This is"
+		 intervals [346]:
+			 xmin = 3730.77
+			 xmax = 3740.27
+			 text = "your first year in a Bake Off ship. Has it been everything you | thought it might be? It's been a dream. So good. For me"
+		 intervals [347]:
+			 xmin = 3740.27
+			 xmax = 3746.37
+			 text = "personally, it's been an absolute dream come true. And I | feel so lucky and blessed. The energy, like, there's just"
+		 intervals [348]:
+			 xmin = 3746.37
+			 xmax = 3754.77
+			 text = "the positive energy and the warmth. And you feel like it's a | little family. Well, that is the Bake Off magic. And I had"
+		 intervals [349]:
+			 xmin = 3754.77
+			 xmax = 3761.97
+			 text = "five years of it, and I'm so proud that you are sitting around | here loving it as much as I did. Thanks, Maggie. I think we're"
+		 intervals [350]:
+			 xmin = 3761.97
+			 xmax = 3768.69
+			 text = "in an impossible pickle because we have to make a hard | decision on... It's going to be crowned the greatest"
+		 intervals [351]:
+			 xmin = 3768.69
+			 xmax = 3775.93
+			 text = "Australian amateur baker. All of our finalists have been | star baker twice. So this is neck and neck. This is a very"
+		 intervals [352]:
+			 xmin = 3775.93
+			 xmax = 3788.17
+			 text = "tight competition. How did Adam go? Enjoy. Oh, my God. Adam | with his beautiful vase and delicate flowers, he really"
+		 intervals [353]:
+			 xmin = 3788.17
+			 xmax = 3797.35
+			 text = "captured that horse's name look. The blueberry offset with | the lemon, it tasted absolutely amazing. But the juniper in"
+		 intervals [354]:
+			 xmin = 3797.35
+			 xmax = 3805.85
+			 text = "the cream just needed a bit more of a punch and a bit of gin, and | I would have been even happier. Mmm. It's so amazing. Yeah, I"
+		 intervals [355]:
+			 xmin = 3805.85
+			 xmax = 3813.69
+			 text = "love this. It's definitely a winning bake. And what about a | loner? She has got a very distinctive style. She's been so"
+		 intervals [356]:
+			 xmin = 3813.69
+			 xmax = 3820.71
+			 text = "elegant, and her work has been so precise. In her | showstoppers, each one of those cakes were amazing. The"
+		 intervals [357]:
+			 xmin = 3820.71
+			 xmax = 3830.63
+			 text = "onion got me more than anything else. It was so fantastic. | Yay! I am so impressed, and I'm so proud of you. Thanks, Mum."
+		 intervals [358]:
+			 xmin = 3830.63
+			 xmax = 3838.81
+			 text = "It's true. Loz's showstopper really did evoke a story, and | she's been doing that the whole way through. I really think"
+		 intervals [359]:
+			 xmin = 3838.81
+			 xmax = 3846.59
+			 text = "she captured that feel you get from going to a coffee shop in | Singapore. I was just blown away by her attention to detail."
+		 intervals [360]:
+			 xmin = 3846.59
+			 xmax = 3854.55
+			 text = "That plastic coffee with the straw and the ice. Yeah. I think | she's special, like all of them. The truth really is that"
+		 intervals [361]:
+			 xmin = 3854.55
+			 xmax = 3862.5299999999997
+			 text = "we've got three winners in there already. That's great, but | like, who is the winner? Are you going to... Keep the"
+		 intervals [362]:
+			 xmin = 3862.5299999999997
+			 xmax = 3879.57
+			 text = "attention going. Final cheers. I love you all. Cheers. | BAKERS. Well done on making it all the way to the finale. It is"
+		 intervals [363]:
+			 xmin = 3879.57
+			 xmax = 3888.87
+			 text = "such a huge achievement. It's been so great to have the | chance to come back to the shed and see you all shine. Each one"
+		 intervals [364]:
+			 xmin = 3888.87
+			 xmax = 3898.9700000000003
+			 text = "of you deserves to be here. Adam, Laura, Ilona. Every week | you've reached new heights, and this is no exception. I want"
+		 intervals [365]:
+			 xmin = 3898.9700000000003
+			 xmax = 3908.43
+			 text = "you all to leave this shed knowing each of you are brilliant | bakers. Guys, I absolutely love it here, and I absolutely"
+		 intervals [366]:
+			 xmin = 3908.43
+			 xmax = 3918.93
+			 text = "love each one of you. Just sharing in your stories of food and | your love of baking has been a real, real pleasure for me."
+		 intervals [367]:
+			 xmin = 3918.93
+			 xmax = 3934.49
+			 text = "Thank you very much. OK. Deep breath. Yes. It's finally | here, the moment we've been waiting ten weeks for. It is my"
+		 intervals [368]:
+			 xmin = 3934.49
+			 xmax = 3953.43
+			 text = "extraordinary pleasure to announce that the winner of the | Great Australian Bake-Off is... Laura. CHEERING AND"
+		 intervals [369]:
+			 xmin = 3953.43
+			 xmax = 3972.11
+			 text = "APPLAUSE I knew it. Oh, my God! Oh, my God! Oh, my God! | Congratulations. That's just one, the Great Australian"
+		 intervals [370]:
+			 xmin = 3972.11
+			 xmax = 3981.75
+			 text = "Bake-Off. What's just saying that sounds ridiculous, like | so crazy? I'm in shock. This is a complete dream come true, to"
+		 intervals [371]:
+			 xmin = 3981.75
+			 xmax = 3991.19
+			 text = "be able to bring the title home and to do it with my mum in the | room. Oh, my God! My God! I've just learnt so much from this"
+		 intervals [372]:
+			 xmin = 3991.19
+			 xmax = 3999.93
+			 text = "whole experience. I've had the absolute time of my life. | Congratulations! Thank you so much. Laura. Thank you,"
+		 intervals [373]:
+			 xmin = 3999.93
+			 xmax = 4007.49
+			 text = "Laura. So pleased for Laura, a proper, worthy winner. She's | been consistent throughout, and she's got better every"
+		 intervals [374]:
+			 xmin = 4007.49
+			 xmax = 4020.83
+			 text = "week, and her bakes are delicious. APPLAUSE The bakers are | so amazing. Obviously, there has to be a winner, but I'm"
+		 intervals [375]:
+			 xmin = 4020.83
+			 xmax = 4028.43
+			 text = "really proud of all the finalists. They have achieved some | amazing bakes in the shed, and it's been wonderful to see how"
+		 intervals [376]:
+			 xmin = 4028.43
+			 xmax = 4036.61
+			 text = "they've grown as well. Come. Thank you. This whole | experience has been more than I could have possibly"
+		 intervals [377]:
+			 xmin = 4036.61
+			 xmax = 4045.29
+			 text = "imagined, and I leave with more confidence in myself, which | I think is the greatest gift the shed has given me. Oh, Elona!"
+		 intervals [378]:
+			 xmin = 4045.29
+			 xmax = 4058.0299999999997
+			 text = "Oh! So amazing. I may not have won overall, but I do feel like | I've won so much. I have grown and become stronger, not just"
+		 intervals [379]:
+			 xmin = 4058.0299999999997
+			 xmax = 4064.4700000000003
+			 text = "my baking, but in my belief in myself that I can do anything. I | think that's a really important thing for me to remember and"
+		 intervals [380]:
+			 xmin = 4064.4700000000003
+			 xmax = 4085.5299999999997
+			 text = "to take away with me. APPLAUSE Marking. And show all the | cameras. There you go. Thanks, man. Train come through. I'm"
+		 intervals [381]:
+			 xmin = 4085.5299999999997
+			 xmax = 4112.83
+			 text = "feeling it. Oh, I'm feeling it. Ooh. Ooh. Oh, I'm OK. Oh! Oh, | my God! That killed Rachel, too. It won't be too thick. Oh,"
+		 intervals [382]:
+			 xmin = 4112.83
+			 xmax = 4130.649
+			 text = "sorry. Oh! It was near when I had longer hair. Are you ready, | Tobine? I'll give you the good crack. Oh! That was awesome."
+		 intervals [383]:
+			 xmin = 4130.649
+			 xmax = 4131.729
+			 text = "That's he from Kate. Whoo!"

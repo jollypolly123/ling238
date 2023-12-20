@@ -1,0 +1,1130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2471.0
+tiers? <exists>
+size = 1
+item []: 
+	 item [1]:
+		 class = "IntervalTier"
+		 name = "silences"
+		 xmin = 0
+		 xmax = 2471.0
+		 intervals: size = 279
+		 intervals [1]:
+			 xmin = 0.0
+			 xmax = 16.92
+			 text = "[Silence]"
+		 intervals [2]:
+			 xmin = 16.92
+			 xmax = 38.78
+			 text = "READY. READY. In the end, Charlie's mango entremets sent | him home. Spakers remain as they compete for the coveted"
+		 intervals [3]:
+			 xmin = 38.78
+			 xmax = 52.92
+			 text = "Great Chocolate Showdown title. This is not good. Just | start again. We are the last six Spakers. I cannot believe I"
+		 intervals [4]:
+			 xmin = 52.92
+			 xmax = 63.9
+			 text = "even made it this far and I am so excited. Hello, bakers! Hi! | Each of you has made incredible strides on your path to"
+		 intervals [5]:
+			 xmin = 63.9
+			 xmax = 73.72
+			 text = "becoming better bakers. But we're here to sweeten your | skills. It's time for your next technique test. Bakers, in"
+		 intervals [6]:
+			 xmin = 73.72
+			 xmax = 81.84
+			 text = "today's technique test, I'm going to show you how to make a | staple in the dessert world. The meringue. Oh, okay. There"
+		 intervals [7]:
+			 xmin = 81.84
+			 xmax = 88.94
+			 text = "are many delectable ways to marry chocolate and meringue. | I'm going to show you Italian meringue because it's the most"
+		 intervals [8]:
+			 xmin = 88.94
+			 xmax = 96.22
+			 text = "stable. Here's a tip for you bakers. Room temperature egg | whites whip up much better than cold ones. I'm adding some"
+		 intervals [9]:
+			 xmin = 96.22
+			 xmax = 102.24000000000001
+			 text = "cream of tartar which will help stabilize the meringue and | gives it a flexible, bouncy texture. Now I'm going to start"
+		 intervals [10]:
+			 xmin = 102.24000000000001
+			 xmax = 107.94
+			 text = "whipping my egg whites at a lower speed. Whipping at a lower | speed helps for air bubbles which will make the meringue"
+		 intervals [11]:
+			 xmin = 107.94
+			 xmax = 115.56
+			 text = "more stable. I want to get my egg whites to soft peak before I | add my sugar syrup, which I need to get to a temperature of 240"
+		 intervals [12]:
+			 xmin = 115.56
+			 xmax = 123.32
+			 text = "degrees Fahrenheit. Once it's up to temperature, I have to | slowly pour it into my sugar syrup. So now I'm going to show"
+		 intervals [13]:
+			 xmin = 123.32
+			 xmax = 130.699
+			 text = "you how to add color to your meringue. I'm using liquid food | gel color because it's highly concentrated. Chef Cynthia"
+		 intervals [14]:
+			 xmin = 130.699
+			 xmax = 136.98
+			 text = "looks so elegant while she shows us how to make meringues. | But there is no way that I'm going to look like Chef Cynthia."
+		 intervals [15]:
+			 xmin = 136.98
+			 xmax = 144.56
+			 text = "I'm going to look at how it makes most likely. And now comes | the best part, piping it. First, throws. Next, a two-tone"
+		 intervals [16]:
+			 xmin = 144.56
+			 xmax = 151.57999999999998
+			 text = "star drop. Now this may look like a plain white meringue, but | looks can be deceiving because I've painted the inside of"
+		 intervals [17]:
+			 xmin = 151.57999999999998
+			 xmax = 159.02
+			 text = "the piping tip with food coloring. And this is going to | create a striped effect. Now you can pipe meringue directly"
+		 intervals [18]:
+			 xmin = 159.02
+			 xmax = 165.54
+			 text = "onto your parchment paper or you can also pipe it onto | skewers which will give height to your dessert. I'm piping"
+		 intervals [19]:
+			 xmin = 165.54
+			 xmax = 172.24
+			 text = "onto the dull end of my skewer so that the pointy end can be | inserted easily into a cake or a showpiece. Now that my"
+		 intervals [20]:
+			 xmin = 172.24
+			 xmax = 178.46
+			 text = "meringue is piped, I'm ready to bake it. And I bake my | meringues at 250 degrees Fahrenheit. Familiar with is"
+		 intervals [21]:
+			 xmin = 178.46
+			 xmax = 184.58
+			 text = "lemon meringue pie that my mom used to make. So I hope this is | something that I could do. My meringues are out of the oven"
+		 intervals [22]:
+			 xmin = 184.58
+			 xmax = 190.9
+			 text = "and cooled. Now it's time to decorate. I've painted my cone | form with white chocolate and I have some tempered"
+		 intervals [23]:
+			 xmin = 190.9
+			 xmax = 197.3
+			 text = "chocolate here to attach my meringue to my structure. Once | I've added all my meringues, I'll have something that looks"
+		 intervals [24]:
+			 xmin = 197.3
+			 xmax = 208.92000000000002
+			 text = "like this. Wow. Beautiful. For your next technique test, | you must create a themed meringue tower and six mini"
+		 intervals [25]:
+			 xmin = 208.92000000000002
+			 xmax = 219.78
+			 text = "desserts featuring meringue and chocolate. Oh, Christmas | tree. The piping possibilities and color choices are"
+		 intervals [26]:
+			 xmin = 219.78
+			 xmax = 228.26
+			 text = "endless. So we want to see a multi-colored and | multi-textured masterpiece. We expect amazing meringue"
+		 intervals [27]:
+			 xmin = 228.26
+			 xmax = 238.68
+			 text = "towers. So we're giving you a little extra baking power. | You're working in pairs. In order to find out who you'll be"
+		 intervals [28]:
+			 xmin = 238.68
+			 xmax = 253.68
+			 text = "working with, please choose the chocolate bar. Emma, | you're up first. Purple. Teal. Purple. I am so happy that me"
+		 intervals [29]:
+			 xmin = 253.68
+			 xmax = 259.899
+			 text = "and Emma are a pair because she decorates amazing and I have | the flavors. So this would be a great duo. Kristin, you're"
+		 intervals [30]:
+			 xmin = 259.899
+			 xmax = 273.0
+			 text = "next. I have pink. Mike. I chose teal. This is great. Tim and I | are going to make a really strong team. That means, Allie,"
+		 intervals [31]:
+			 xmin = 273.0
+			 xmax = 280.42
+			 text = "you'll be working with Kristin. I agree. Allie's precision | and Mike create eight of skills. That's going to make a great"
+		 intervals [32]:
+			 xmin = 280.42
+			 xmax = 289.34000000000003
+			 text = "team. Baker's Sweet Safety is in a table. From this point on, | all of you will bake in the Chocolate Elimination"
+		 intervals [33]:
+			 xmin = 289.34000000000003
+			 xmax = 296.8
+			 text = "Challenge. And the winning team of this technique test will | receive a special advantage in the Next Elimination"
+		 intervals [34]:
+			 xmin = 296.8
+			 xmax = 305.4
+			 text = "Challenge. The pantry is fully stocked with the finest | chocolate and ingredients. And you'll have two hours and 45"
+		 intervals [35]:
+			 xmin = 305.4
+			 xmax = 320.0
+			 text = "minutes to complete this test. Ready? Steady? Get your | sweet on. What should we call our theme? Pastel Princess"
+		 intervals [36]:
+			 xmin = 320.0
+			 xmax = 327.96
+			 text = "Dream. Ashley and I decide to do a pastel princess dream | theme because we love the colors of pastel and they match our"
+		 intervals [37]:
+			 xmin = 327.96
+			 xmax = 335.98
+			 text = "shirts. It's going to be cool. We got this. Our theme is the | rainbow candy shop. It looks so pretty. Kristin and I decide"
+		 intervals [38]:
+			 xmin = 335.98
+			 xmax = 344.7
+			 text = "to make a rainbow candy shop meringue tower because we love | rainbow colors. We got this. We do got this. Okay, I said we"
+		 intervals [39]:
+			 xmin = 344.7
+			 xmax = 351.8
+			 text = "make a peach themed cone and then a peach themed dessert so | it's really cohesive. Our theme is Life's a Peach because"
+		 intervals [40]:
+			 xmin = 351.8
+			 xmax = 358.46
+			 text = "Tim currently lives in Atlanta and I used to live in Atlanta | and Atlanta and the state of Georgia. Let's go. Let's go. We"
+		 intervals [41]:
+			 xmin = 358.46
+			 xmax = 367.5
+			 text = "got this. Merengues are so fun and they pair so well with | chocolate. And in terms of making a meringue that will hold"
+		 intervals [42]:
+			 xmin = 367.5
+			 xmax = 374.12
+			 text = "its shape, volume and color you need to be able to learn how to | read the meringue in the mixer. And you can tell when it's"
+		 intervals [43]:
+			 xmin = 374.12
+			 xmax = 382.28
+			 text = "whipped because it's glossy and shiny and holds a stiff | peak. Fast and smart. Fast and smart. So for this technique"
+		 intervals [44]:
+			 xmin = 382.28
+			 xmax = 388.66
+			 text = "test we're making six minute white chocolate peach decois | with a peach compote and a graham cracker and pecan crumble."
+		 intervals [45]:
+			 xmin = 388.66
+			 xmax = 394.58
+			 text = "But the first thing that we start on is our meringue. As I | start my meringue I start by separating my egg whites and if"
+		 intervals [46]:
+			 xmin = 394.58
+			 xmax = 400.54
+			 text = "you get any yolk inside of these egg whites then it can throw | off the consistency of your meringue and it may not set."
+		 intervals [47]:
+			 xmin = 400.54
+			 xmax = 410.62
+			 text = "How's it going over there? Good. I'm at 240 so you're such a | talented parer. I'm proud of you. For our mini desserts"
+		 intervals [48]:
+			 xmin = 410.62
+			 xmax = 419.98
+			 text = "we're going to make a chai spice macaron with a Swiss | meringue buttercream and a milk chocolate ganache. And we"
+		 intervals [49]:
+			 xmin = 419.98
+			 xmax = 426.8
+			 text = "are good. My meringue mixture is at the right peaks that it | needs to be. I'm feeling very good about this before. I'm"
+		 intervals [50]:
+			 xmin = 426.8
+			 xmax = 432.18
+			 text = "just going to whip a little bit more and then they'll be | ready. How's it going Ashley? You good? I'm good. Okay. For"
+		 intervals [51]:
+			 xmin = 432.18
+			 xmax = 439.24
+			 text = "our mini desserts we're making pavlovo filled with milk | chocolate pastry cream and fresh fruits. Watch your eggs."
+		 intervals [52]:
+			 xmin = 439.24
+			 xmax = 445.08
+			 text = "You don't want to over whip. Oh yeah, yeah. We are both going | at such a fast pace and I'm really glad that we're on the same"
+		 intervals [53]:
+			 xmin = 445.08
+			 xmax = 454.2
+			 text = "page. All right I'm starting on another batch. Yeah me too. | Get those things whipped up. So silky. Now it's time to color"
+		 intervals [54]:
+			 xmin = 454.2
+			 xmax = 459.96
+			 text = "the meringues and I'm going to start off with pink. My | favorite color. Is this pink online? Love it. Are you happy"
+		 intervals [55]:
+			 xmin = 459.96
+			 xmax = 466.86
+			 text = "with your color over there? Alrighty. One of the pitfalls | our bakers can run into is in working in their color that"
+		 intervals [56]:
+			 xmin = 466.86
+			 xmax = 473.94
+			 text = "they're over folding. So with every fold you are deflating | that meringue a little bit and then if you fold too much when"
+		 intervals [57]:
+			 xmin = 473.94
+			 xmax = 480.34
+			 text = "those meringues hit the heat of the oven they'll start | breaking down and then they become too fragile and crumbly."
+		 intervals [58]:
+			 xmin = 480.34
+			 xmax = 486.08
+			 text = "We're doing good. We're doing good. Okay I'm going to start | working on the peach color jab. Okay. I'm making sure that we"
+		 intervals [59]:
+			 xmin = 486.08
+			 xmax = 493.66
+			 text = "have a variation of color for our peach themed tower from a | deeper darker peachy red to almost a yellow tone. Yeah I like"
+		 intervals [60]:
+			 xmin = 493.66
+			 xmax = 498.84
+			 text = "that. Yeah right? I like it a lot. The goal is piping out | different shapes colors. Oh these are cool looking man."
+		 intervals [61]:
+			 xmin = 498.84
+			 xmax = 505.88
+			 text = "Also you have meringue in your beard right now. I thought it | made me look distinguished. Trying not to be so messy but I"
+		 intervals [62]:
+			 xmin = 505.88
+			 xmax = 511.5
+			 text = "gotta speed it up. As I'm working on the larger meringues, | Allie is working on the smaller ones. Hey Allie how's your"
+		 intervals [63]:
+			 xmin = 511.5
+			 xmax = 518.28
+			 text = "piping going over there? Pretty good. I'm feeling really | good about these meringues. They are looking wonderful and"
+		 intervals [64]:
+			 xmin = 518.28
+			 xmax = 525.5
+			 text = "vibrant. It's going to be so good. Now all the teams have | their meringues in the oven so our bakers really don't need"
+		 intervals [65]:
+			 xmin = 525.5
+			 xmax = 532.54
+			 text = "to stop working on their desserts. I am starting on the | shells for our macaron. It's my first time actually popping"
+		 intervals [66]:
+			 xmin = 532.54
+			 xmax = 538.48
+			 text = "this. It's not to be too sloppy with them. I've never made | macarons before so I hope these come out right. Oh that looks"
+		 intervals [67]:
+			 xmin = 538.48
+			 xmax = 544.22
+			 text = "awesome. I'm going to go ahead and start on the peach | compote. Okay I'm going to start tempering chocolate."
+		 intervals [68]:
+			 xmin = 544.22
+			 xmax = 549.02
+			 text = "Perfect. So now I'm moving on to tempering chocolate. This | tempered chocolate is going to be the glue that's going to"
+		 intervals [69]:
+			 xmin = 549.02
+			 xmax = 555.24
+			 text = "allow us to put our meringues onto this comb. Another | chocolate coming along. It is taking it sweet time. Alright"
+		 intervals [70]:
+			 xmin = 555.24
+			 xmax = 563.3
+			 text = "we got to get to hopefully decorating by a one hour mark. Yeah | this chocolate is taking forever to come to temper. Bakers"
+		 intervals [71]:
+			 xmin = 563.3
+			 xmax = 569.82
+			 text = "one hour left. I'm frustrated because if I can't get this | chocolate tempered enough time to put our tower together."
+		 intervals [72]:
+			 xmin = 569.82
+			 xmax = 585.5
+			 text = "Come on. Can't make this cool any faster. I know I'm | tempering the chocolate correctly but I'm wondering if"
+		 intervals [73]:
+			 xmin = 585.5
+			 xmax = 590.18
+			 text = "maybe I'm making a little bit too much which is why it's | taking so long. So I take some of the white chocolate out and"
+		 intervals [74]:
+			 xmin = 590.18
+			 xmax = 595.68
+			 text = "put it into another bowl and that chocolate I'll use to cover | the comb. Okay this is ready to paint the comb if you want to"
+		 intervals [75]:
+			 xmin = 595.68
+			 xmax = 600.34
+			 text = "take it. Finally after what feels like forever our white | chocolate is being tempered. This tempered chocolate is"
+		 intervals [76]:
+			 xmin = 600.34
+			 xmax = 608.28
+			 text = "going to be the glue that's going to allow us to put our | meringues onto this comb. Yes sir. We got this. For this"
+		 intervals [77]:
+			 xmin = 608.28
+			 xmax = 617.94
+			 text = "technique test we have to mix six mini meringue desserts and | a meringue tower. My vision for the top of our tower is to make"
+		 intervals [78]:
+			 xmin = 617.94
+			 xmax = 628.64
+			 text = "a big pastel lollipop. Perfect for a princess. I finished | doing my meringues. My macarons are set. Now it's time to"
+		 intervals [79]:
+			 xmin = 628.64
+			 xmax = 635.94
+			 text = "coat the base of the tower. Looks really good Christian. | Thanks. Okay I am ready to start putting stuff on. Miss"
+		 intervals [80]:
+			 xmin = 635.94
+			 xmax = 643.78
+			 text = "tempered chocolate that took forever is working in peace to | the tower itself. Looks like a traffic cone. 30 minutes. We"
+		 intervals [81]:
+			 xmin = 643.78
+			 xmax = 651.24
+			 text = "got everything done we just got a symbol. Yes. Just do it. | Just to get them all make them look good. Life's a peach."
+		 intervals [82]:
+			 xmin = 651.24
+			 xmax = 659.78
+			 text = "Life's a peach. Bakers 15 minutes left on the clock. Alright | y'all keep going. Keep on hustling. At this point I'm"
+		 intervals [83]:
+			 xmin = 659.78
+			 xmax = 671.54
+			 text = "sticking them anywhere. Oh because the malls are good. It's | getting there. You got this. Come on baking. Oh my freaking"
+		 intervals [84]:
+			 xmin = 671.54
+			 xmax = 690.24
+			 text = "gosh. 10, 8, 7, 6, 5, 4, 3, 2, 1 time's up. Did that girl. Yeah. | I'm really looking forward to the judges tasting this"
+		 intervals [85]:
+			 xmin = 690.24
+			 xmax = 695.78
+			 text = "dessert and know the flavors there and I know they're going | to be wowed by it. Oh my god how bad you know. It looks pretty"
+		 intervals [86]:
+			 xmin = 695.78
+			 xmax = 705.5
+			 text = "good. Snaps for the rainbow candy shop. Bakers in teams of | two we asked you to create a themed meringue tower and six"
+		 intervals [87]:
+			 xmin = 705.5
+			 xmax = 717.98
+			 text = "mini meringue based desserts. Christian, Allie. Yeah. | Allie and I created a rainbow candy shop thing meringue"
+		 intervals [88]:
+			 xmin = 717.98
+			 xmax = 727.48
+			 text = "tower with a chai spice macaron and a Swiss meringue | buttercream and a milk chocolate ganache. Well this is a"
+		 intervals [89]:
+			 xmin = 727.48
+			 xmax = 736.12
+			 text = "kaleidoscope of color and texture. You've done some | fantastic piping work. Your meringues are well executed"
+		 intervals [90]:
+			 xmin = 736.12
+			 xmax = 745.98
+			 text = "but I wish you hadn't have gone for the luster spray because | my favorite color scheme on this tower is this patch get two"
+		 intervals [91]:
+			 xmin = 745.98
+			 xmax = 753.22
+			 text = "with the luster spray. Look at that vibrance and then over | here where the blueish luster spray got to it, it mutes all"
+		 intervals [92]:
+			 xmin = 753.22
+			 xmax = 773.06
+			 text = "the colors. They look perfect. Allie, Kristen, I love your | macaron for the first time ever making it. Get over here."
+		 intervals [93]:
+			 xmin = 773.06
+			 xmax = 781.26
+			 text = "Chefs practice their whole life and they can't get it. Thank | you. Your milk chocolate ganache melts in my mouth at that"
+		 intervals [94]:
+			 xmin = 781.26
+			 xmax = 788.6
+			 text = "punch of chocolate. Your chai Swiss buttercream it balance | so well with your chocolate ganache. Nice work. I'm so proud"
+		 intervals [95]:
+			 xmin = 788.6
+			 xmax = 802.78
+			 text = "of you. I am so stoked. Go Allie, go Kristen. Mike, Tim, | please bring us your meringue tower. Our meringue tower is"
+		 intervals [96]:
+			 xmin = 802.78
+			 xmax = 810.88
+			 text = "named Life's A Peach. We made a white chocolate peach de | quoi. There is a peach compote and a graham cracker pecan"
+		 intervals [97]:
+			 xmin = 810.88
+			 xmax = 819.62
+			 text = "crumble. Well, I really like that you did a lot of unique | different piping techniques, different color schemes,"
+		 intervals [98]:
+			 xmin = 819.62
+			 xmax = 827.94
+			 text = "but your desserts, they look roughly assembled and your | meringue shells. A daquoise is a meringue that has ground"
+		 intervals [99]:
+			 xmin = 827.94
+			 xmax = 834.38
+			 text = "nuts stirred into it and then baked and then that is layered | with your creams and your fillings. So did you stir any nuts"
+		 intervals [100]:
+			 xmin = 834.38
+			 xmax = 849.96
+			 text = "into that meringue? No, we did not. Shall we give it a taste? | Yes. Mike, Tim, I can certainly see the nod to peaches, but I"
+		 intervals [101]:
+			 xmin = 849.96
+			 xmax = 857.44
+			 text = "can see some of your swirls have started to collapse on each | other and that's just because some of the volume from your"
+		 intervals [102]:
+			 xmin = 857.44
+			 xmax = 865.86
+			 text = "meringue was lost. Chocolate work. If you go to that much | work to make a leaf like that, I want to see more. But when it"
+		 intervals [103]:
+			 xmin = 865.86
+			 xmax = 874.0
+			 text = "comes down to the desserts, the flavor of the peaches with | the graham and the pecans and the cinnamon, it just has that"
+		 intervals [104]:
+			 xmin = 874.0
+			 xmax = 883.44
+			 text = "wonderful comfort food feel, but had it been presented as an | elegant dessert, would have blown my mind. Thank you. Thank"
+		 intervals [105]:
+			 xmin = 883.44
+			 xmax = 889.82
+			 text = "you. I'm most nervous about the judges' critique about the | appearance, but they absolutely love the way the dessert"
+		 intervals [106]:
+			 xmin = 889.82
+			 xmax = 898.34
+			 text = "tastes, so I hope that's going to make up for it. Emma and | Ashley, you're up. Our theme of this meringue tower is"
+		 intervals [107]:
+			 xmin = 898.34
+			 xmax = 908.4
+			 text = "pastel princess dream. And we made six peplovers with milk | chocolate, pastry cream and fresh fruit. Ashley and Emma,"
+		 intervals [108]:
+			 xmin = 908.4
+			 xmax = 917.9
+			 text = "wow, this truly is a meringue tower fit for a princess. And of | course, you were very smart and painted your cone along the"
+		 intervals [109]:
+			 xmin = 917.9
+			 xmax = 925.6
+			 text = "same tones, which helps unify the look. I love that you added | a top things the whole thing together. Okay, shall we give"
+		 intervals [110]:
+			 xmin = 925.6
+			 xmax = 939.64
+			 text = "these a try? Yeah, please. Your milk chocolate pastry cream | was on point. It wasn't overly sweet, which was good because"
+		 intervals [111]:
+			 xmin = 939.64
+			 xmax = 947.16
+			 text = "with the meringue being sweet, it would have been too | intense, but your desserts are inconsistent, so you got to"
+		 intervals [112]:
+			 xmin = 947.16
+			 xmax = 955.56
+			 text = "make sure every single one is the same. I have to flag one | concern of mine. Your dessert is prepared from the exact"
+		 intervals [113]:
+			 xmin = 955.56
+			 xmax = 964.54
+			 text = "same meringue that you used to create the tower. A meringue | and a pavlova is intended to be crispy all the way through. A"
+		 intervals [114]:
+			 xmin = 964.54
+			 xmax = 969.44
+			 text = "pavlova should be crunchy on the outside, soft in the | center, and two ingredients are added to the meringue,"
+		 intervals [115]:
+			 xmin = 969.44
+			 xmax = 981.92
+			 text = "cornstarch and lemon juice. This is actually a meringue | nest. Thank you. Thank you. BAKERS, congratulations. All"
+		 intervals [116]:
+			 xmin = 981.92
+			 xmax = 990.7
+			 text = "of you delivered delightful and playful showpieces. But | there was one team who created a meringue tower that was a"
+		 intervals [117]:
+			 xmin = 990.7
+			 xmax = 1008.78
+			 text = "vibrant, multi-textured masterpiece. Alongs two. | BAKERS, there was one team who created a meringue tower that"
+		 intervals [118]:
+			 xmin = 1008.78
+			 xmax = 1022.54
+			 text = "was a multi-textured masterpiece. And that tower belongs | to... Kristen and Allie. Thank you. Your rainbow candy shop"
+		 intervals [119]:
+			 xmin = 1022.54
+			 xmax = 1030.859
+			 text = "was a technicolor triumph. And that macaron at the end of the | rainbow was a tasty little treasure. A special advantage in"
+		 intervals [120]:
+			 xmin = 1030.859
+			 xmax = 1043.28
+			 text = "the next challenge. Mmm, yeah. BAKERS, all of you have come a | long way in the skills you've shown us. And you've also come a"
+		 intervals [121]:
+			 xmin = 1043.28
+			 xmax = 1057.02
+			 text = "long way to be here in this kitchen. We know you must miss | home. So we have a postcard from someone who misses you too."
+		 intervals [122]:
+			 xmin = 1057.02
+			 xmax = 1068.28
+			 text = "Oh, my daughter! It's from my mom. It's from my sister, my | husband and my third son, Clay. It's from my grandmother."
+		 intervals [123]:
+			 xmin = 1068.28
+			 xmax = 1075.74
+			 text = "And she says, Hi, Kristen. I'm sitting here thinking about | you and how much I miss you. I love you so much and so proud of"
+		 intervals [124]:
+			 xmin = 1075.74
+			 xmax = 1081.28
+			 text = "you. My daughter, Janayia, says congratulations, mommy, | on making it this far. Hang in there, you're making me so"
+		 intervals [125]:
+			 xmin = 1081.28
+			 xmax = 1090.92
+			 text = "proud. Your hard work does not go unnoticed. Never give up. | Words cannot express how proud I am of you. I know that Dad and"
+		 intervals [126]:
+			 xmin = 1090.92
+			 xmax = 1099.38
+			 text = "Patrick are cheering you on from above. You are a rising | star, something so important and being visible for"
+		 intervals [127]:
+			 xmin = 1099.38
+			 xmax = 1106.84
+			 text = "Indigenous women. I love you so much and so proud of you. I | know you can do it. Dear Daddy, we miss you and care for you. We"
+		 intervals [128]:
+			 xmin = 1106.84
+			 xmax = 1114.72
+			 text = "are cheering for you to win $50,000. I miss you so much and I'm | rooting you on. Your biggest cheerleader, love mom. Love"
+		 intervals [129]:
+			 xmin = 1114.72
+			 xmax = 1128.7
+			 text = "Janayia. Love grandmother. I'm good. I love you from Clay. | He's an amazing kid. He's very unique. I don't even know the"
+		 intervals [130]:
+			 xmin = 1128.7
+			 xmax = 1140.4
+			 text = "last time I cried. We have a bunch of softies in here. We hope | your postcards provide a bit of comfort and some sweet"
+		 intervals [131]:
+			 xmin = 1140.4
+			 xmax = 1148.82
+			 text = "motivation for your next bake. Desserts have the power to | take us on amazing journeys from a trip back home to a faraway"
+		 intervals [132]:
+			 xmin = 1148.82
+			 xmax = 1154.54
+			 text = "place we've only dreamed about. For your next chocolate | elimination challenge, you are going on a flavorful"
+		 intervals [133]:
+			 xmin = 1154.54
+			 xmax = 1161.98
+			 text = "adventure. We want you to create a plated chocolate dessert | highlighting an ingredient from our international"
+		 intervals [134]:
+			 xmin = 1161.98
+			 xmax = 1170.46
+			 text = "pantry. Okay. On your postcards, you will find a number that | matches a number on the cupboard. Who's got number one?"
+		 intervals [135]:
+			 xmin = 1170.46
+			 xmax = 1188.34
+			 text = "That'd be me. Tip. Blue corn. Kristen. I have wattle seed. | Mike. I have add Zuki Beans. Number four. I got Sumac. Number"
+		 intervals [136]:
+			 xmin = 1188.34
+			 xmax = 1199.9
+			 text = "five. Black Sesame Paste. Last but not least, Ashley. I got | Tiger Nuts. Kristin and Allie, ask the winners of the"
+		 intervals [137]:
+			 xmin = 1199.9
+			 xmax = 1210.68
+			 text = "technique test. You will each receive some judge advice | once during your bake. A ring of bell. And ask for one of us to"
+		 intervals [138]:
+			 xmin = 1210.68
+			 xmax = 1218.46
+			 text = "help you with some expert tips for success. The pantry is | fully stocked with the finest chocolate and ingredients,"
+		 intervals [139]:
+			 xmin = 1218.46
+			 xmax = 1223.78
+			 text = "and you'll have two and a half hours to complete this | challenge. The baker who presents us with our least"
+		 intervals [140]:
+			 xmin = 1223.78
+			 xmax = 1238.08
+			 text = "favorite dessert will be going home. Ready? Steady? Get | your chocolate on. Let's go. I think after receiving these"
+		 intervals [141]:
+			 xmin = 1238.08
+			 xmax = 1243.4
+			 text = "postcards, everyone wants to put their best foot forward. | Seem to be threatened. We're taking off with this"
+		 intervals [142]:
+			 xmin = 1243.4
+			 xmax = 1249.48
+			 text = "challenge. We don't want to just see the ingredients | sprinkled on top. We want to be able to taste those flavors."
+		 intervals [143]:
+			 xmin = 1249.48
+			 xmax = 1256.8
+			 text = "So they need to play with the ingredient and discover does it | need to be steeped into a liquid? Does it need to be heated? So"
+		 intervals [144]:
+			 xmin = 1256.8
+			 xmax = 1265.12
+			 text = "they really have to step up their gate. Tiger Nuts originate | from North Africa and not actually nuts with small root"
+		 intervals [145]:
+			 xmin = 1265.12
+			 xmax = 1272.08
+			 text = "vegetables with a sweet nutty flavor similar to coconut. I | already know a little bit about Tiger Nuts. My best friend's"
+		 intervals [146]:
+			 xmin = 1272.08
+			 xmax = 1280.32
+			 text = "husband is from Africa and he makes Tiger Nut pudding. So I'm | making a Tiger Nut, and I'm going to substitute the almond"
+		 intervals [147]:
+			 xmin = 1280.32
+			 xmax = 1286.54
+			 text = "for the Tiger Nut. I'm going to have a chocolate Tiger Nut | base of vanilla custard, and I'm going to have chocolate on"
+		 intervals [148]:
+			 xmin = 1286.54
+			 xmax = 1293.98
+			 text = "the top. And I'm also making a Tiger Nut brittle. I put it in my | food processor to blend them. Not working. How long are they"
+		 intervals [149]:
+			 xmin = 1293.98
+			 xmax = 1301.56
+			 text = "chopping up? The Tiger Nuts are too hard. I have to boil these | nuts so I can blend them up. Or I'm just not going to be able to"
+		 intervals [150]:
+			 xmin = 1301.56
+			 xmax = 1307.62
+			 text = "give the judges anything. And I want to make my daughter | Janaya so proud of me. I boil my Tiger Nuts, take them out, and"
+		 intervals [151]:
+			 xmin = 1307.62
+			 xmax = 1315.8
+			 text = "I start to blend them. Finally. Azuki beans are commonly | used in East Asian desserts flavor. I am making a matcha and"
+		 intervals [152]:
+			 xmin = 1315.8
+			 xmax = 1323.3
+			 text = "azuki bean whipped cream roulade with a milk chocolate | ganache, matcha crumble, some azuki bean jellies, and a"
+		 intervals [153]:
+			 xmin = 1323.3
+			 xmax = 1329.5
+			 text = "dark chocolate sauce. I cannot use the azuki beans the way | that they are. No one wants to bite into a whole bean. So I'm"
+		 intervals [154]:
+			 xmin = 1329.5
+			 xmax = 1334.92
+			 text = "going to put them in the food processor and blend them down | really finely. And then I'm going to add some sugar to the"
+		 intervals [155]:
+			 xmin = 1334.92
+			 xmax = 1342.2
+			 text = "azuki bean paste and heat them together to bring out the | azuki bean flavor while also adding a lot of sweetness. Mmm."
+		 intervals [156]:
+			 xmin = 1342.2
+			 xmax = 1347.9
+			 text = "That is much better with a lot of sugar in it. I know my dad and | my husband are cheering me on from above. So I'm going to give"
+		 intervals [157]:
+			 xmin = 1347.9
+			 xmax = 1355.06
+			 text = "it my best. Flavor with hints of coffee and hazelnut. I'm | making a wattle seed pina cotta and a chocolate hazelnut"
+		 intervals [158]:
+			 xmin = 1355.06
+			 xmax = 1362.72
+			 text = "shortbread with a chocolate wattle seed espresso sauce and | a caramelized hazelnut crumble. First, I'm going to get"
+		 intervals [159]:
+			 xmin = 1362.72
+			 xmax = 1368.82
+			 text = "started on my wattle seed pina cotta and I boil my wattle seed | with the cream and sugar so it can absorb the flavor. And I put"
+		 intervals [160]:
+			 xmin = 1368.82
+			 xmax = 1374.96
+			 text = "it in the fridge to set. Boop-boop-boop. Next, I put my | chocolate hazelnut wattle seed shortbread on a baking"
+		 intervals [161]:
+			 xmin = 1374.96
+			 xmax = 1383.36
+			 text = "tray. Oh, yeah. This is fine. Okay. I'm making a milk | chocolate black sesame mochi filled with black sesame milk"
+		 intervals [162]:
+			 xmin = 1383.36
+			 xmax = 1391.44
+			 text = "chocolate ganache with black sesame sable and a strawberry | gelet. The black sesame flavor is really nutty and rich, so"
+		 intervals [163]:
+			 xmin = 1391.44
+			 xmax = 1397.24
+			 text = "the strawberries are going to bring a sweetness to it. I'm | making mochi because mochi is traditionally a Japanese"
+		 intervals [164]:
+			 xmin = 1397.24
+			 xmax = 1403.46
+			 text = "dessert and black sesame paste is also from Japan, so I think | the two pair well together. I think many people are familiar"
+		 intervals [165]:
+			 xmin = 1403.46
+			 xmax = 1412.38
+			 text = "with toasted sesame oil, but black sesame paste has an even | more pronounced sesame flavor, which means a nuttiness,"
+		 intervals [166]:
+			 xmin = 1412.38
+			 xmax = 1420.56
+			 text = "almost a smokiness. And I think the fact that Emma is using | milk chocolate will pair well with the sesame. I'm doing"
+		 intervals [167]:
+			 xmin = 1420.56
+			 xmax = 1428.14
+			 text = "donuts. Yum. I'm going to be making a blue corn chocolate | donut, but I'm going to elevate it with a rose water and"
+		 intervals [168]:
+			 xmin = 1428.14
+			 xmax = 1435.16
+			 text = "raspberry coulis, a cardamom, diplomat cream, and a blue | corn lace twill, and pistachio crumble. I'm going into this"
+		 intervals [169]:
+			 xmin = 1435.16
+			 xmax = 1441.0
+			 text = "challenge after receiving this postcard more focused than | ever. It made me start thinking about not just Clay, but my"
+		 intervals [170]:
+			 xmin = 1441.0
+			 xmax = 1448.2
+			 text = "other two kids, my wife. I know they're all rooting for me. | Now it's time to bake. Sumac is a spice that has a citrus-like"
+		 intervals [171]:
+			 xmin = 1448.2
+			 xmax = 1455.96
+			 text = "quality and can also be used to add a pop of color to a dish. I am | making a milk chocolate vertical sumac tart. That's not"
+		 intervals [172]:
+			 xmin = 1455.96
+			 xmax = 1463.98
+			 text = "fancy. I am literally standing a tart up on its side. There's | no backing to it at all, and there's going to be sumac milk"
+		 intervals [173]:
+			 xmin = 1463.98
+			 xmax = 1469.8
+			 text = "chocolate ganache, a sumac caramel sauce, milk chocolate | mousse, and a white chocolate tempered garnish. And"
+		 intervals [174]:
+			 xmin = 1469.8
+			 xmax = 1478.12
+			 text = "hopefully the judges love that. Kristen and I got this | advantage, and it's a huge deal. If at any point we get stuck,"
+		 intervals [175]:
+			 xmin = 1478.12
+			 xmax = 1488.8
+			 text = "we can ring the bell and get help. We'll see how this goes. | Elise is my shortbread. Smells delicious. So now I'm going"
+		 intervals [176]:
+			 xmin = 1488.8
+			 xmax = 1495.28
+			 text = "to check on my Waddle Sea Pina Cotta. Doesn't look like it's | setting correctly. Oh, goodness. It's like half set at the"
+		 intervals [177]:
+			 xmin = 1495.28
+			 xmax = 1512.82
+			 text = "bottom, but not so much at the top. This is not good. Bakers, | one hour left. Oh, goodness. I'm nervous that my panna cotta"
+		 intervals [178]:
+			 xmin = 1512.82
+			 xmax = 1521.4
+			 text = "is not going to be set in time, so I think I'm going to use this | bell for some advice. Chef Anna, I need your help. I'll be"
+		 intervals [179]:
+			 xmin = 1521.4
+			 xmax = 1529.42
+			 text = "right there. Kristen. Can we check my panna cotta? Yes, | please. Oh, your gelatin is not dissolved in it. So what"
+		 intervals [180]:
+			 xmin = 1529.42
+			 xmax = 1535.96
+			 text = "should I do? I think you're better off just start again. | Starting over? Yeah. Blune the gelatin, make sure it gets"
+		 intervals [181]:
+			 xmin = 1535.96
+			 xmax = 1543.5
+			 text = "fully melted in that cream. Mm-hmm. Put it in a flutter dish, | and then it'll chill faster. OK. I'm running out of time, but"
+		 intervals [182]:
+			 xmin = 1543.5
+			 xmax = 1550.82
+			 text = "when Chef Anna tells you to start something over, you do it. | On to the next step. For this chocolate elimination"
+		 intervals [183]:
+			 xmin = 1550.82
+			 xmax = 1556.6
+			 text = "challenge, we must have a plate of dessert that highlights | an ingredient from the international pantry. I'm going to"
+		 intervals [184]:
+			 xmin = 1556.6
+			 xmax = 1563.66
+			 text = "do the filling for my Nanaimo bar. I mix butter, powdered | sugar, vanilla, and heavy cream. Pale like yellow, I know"
+		 intervals [185]:
+			 xmin = 1563.66
+			 xmax = 1569.02
+			 text = "that it's already. There needs to whip because it needs to | change in color. At the same time, I'm making my tiger nut"
+		 intervals [186]:
+			 xmin = 1569.02
+			 xmax = 1578.2
+			 text = "brutal. Ooh, my glasses. Glasses keep fogging up. This is | going to be a great brutal. Ooh, it smells so good. My cake is"
+		 intervals [187]:
+			 xmin = 1578.2
+			 xmax = 1588.32
+			 text = "cooling, so I am going to incorporate my azuki bean paste | into a cream filling. I'm also going to make a jelly out of the"
+		 intervals [188]:
+			 xmin = 1588.32
+			 xmax = 1594.12
+			 text = "bean because it should also enhance the azuki bean flavor. | I'm also going to make a milk chocolate ganache to go with it"
+		 intervals [189]:
+			 xmin = 1594.12
+			 xmax = 1601.98
+			 text = "because the judges always like to see more chocolate. These | are my strawberry gelet, and they look pretty good to me. And"
+		 intervals [190]:
+			 xmin = 1601.98
+			 xmax = 1609.16
+			 text = "now it's time to make my mochi. To make the mochi, I mix | together fruit and rice flour, sugar, and water, and then"
+		 intervals [191]:
+			 xmin = 1609.16
+			 xmax = 1617.16
+			 text = "put that in the microwave and heat it up. The texture of mochi | is really sticky, and it kind of feels like modeling clay. I"
+		 intervals [192]:
+			 xmin = 1617.16
+			 xmax = 1624.16
+			 text = "flatten out the mochi dough and roll it in cornstarch and | make discs so that I can fill it with my black sesame ganache."
+		 intervals [193]:
+			 xmin = 1624.16
+			 xmax = 1631.26
+			 text = "I think that they will be a good texture. Now that my tart | dough is ready to go and my ganache is made, it's time to get"
+		 intervals [194]:
+			 xmin = 1631.26
+			 xmax = 1639.08
+			 text = "started on my sumac caramel sauce. It does not look right. | Oh, no, it's crystallized. That's not good. At this point, I"
+		 intervals [195]:
+			 xmin = 1639.08
+			 xmax = 1645.76
+			 text = "decide to ring my bell to get some input from Chef Steve | because if I don't get this caramel sauce on my plate, I will"
+		 intervals [196]:
+			 xmin = 1645.76
+			 xmax = 1652.52
+			 text = "only have one element of sumac, and that is not good. I'm | really having problems with my caramel. Okay, was your"
+		 intervals [197]:
+			 xmin = 1652.52
+			 xmax = 1657.66
+			 text = "cream hot when you added it or cold? Room temp. Room | temperature. Quick trick. First, warm your cream and your"
+		 intervals [198]:
+			 xmin = 1657.66
+			 xmax = 1663.8
+			 text = "sumac together. Bring it to a boil. Strain it. Then, when you | get that golden amber color, you pour your cream into your"
+		 intervals [199]:
+			 xmin = 1663.8
+			 xmax = 1672.52
+			 text = "sugar slowly whisking. Once that's done, take it off. Allow | it to most fire buttery. Okay, thank you. Good luck. Okay, I"
+		 intervals [200]:
+			 xmin = 1672.52
+			 xmax = 1680.04
+			 text = "can do this. I attempt to make my caramel sauce again, and | this is still not working. My caramel keeps crystallizing,"
+		 intervals [201]:
+			 xmin = 1680.04
+			 xmax = 1688.66
+			 text = "and crystallization in your caramel is a big no-no. So I'm | just gonna stick with my original batch. And even though it"
+		 intervals [202]:
+			 xmin = 1688.66
+			 xmax = 1697.56
+			 text = "doesn't look like caramel sauce, it still tastes great. You | have 30 minutes left! It's time for me to work on this blue"
+		 intervals [203]:
+			 xmin = 1697.56
+			 xmax = 1704.88
+			 text = "corn twill. Oh, okay. I see you're starting to do this little | thing thing. This is going to add a list occasion to this"
+		 intervals [204]:
+			 xmin = 1704.88
+			 xmax = 1714.58
+			 text = "plate. When you read the word, it looks like you're supposed | to go... Twills and twirls. Okay. I'm gonna attempt to roll"
+		 intervals [205]:
+			 xmin = 1714.58
+			 xmax = 1720.06
+			 text = "my cake. Before I roll the roulette, I need to make sure I, of | course, include the whipped cream that I've made that's got"
+		 intervals [206]:
+			 xmin = 1720.06
+			 xmax = 1725.6
+			 text = "the azuki bean in it, and then I also have my milk chocolate | ganache that needs to be spread as well. I'm nervous about"
+		 intervals [207]:
+			 xmin = 1725.6
+			 xmax = 1730.46
+			 text = "rolling this roulette, because the biggest danger when | making roulette is if the cake cracks. If it does, the"
+		 intervals [208]:
+			 xmin = 1730.46
+			 xmax = 1735.08
+			 text = "ingredients you put on the inside are gonna start seeping | out, and you're gonna lose that beautiful swirl effect that"
+		 intervals [209]:
+			 xmin = 1735.08
+			 xmax = 1741.28
+			 text = "you've worked so hard for. Okay, I am happy with how that | looks. Please look perfect, please look perfect, please"
+		 intervals [210]:
+			 xmin = 1741.28
+			 xmax = 1751.16
+			 text = "look perfect. After I punch out the ganache, it's time to put | it in the tart shell. And the tart shell breaks. Oh, it is so"
+		 intervals [211]:
+			 xmin = 1751.16
+			 xmax = 1758.94
+			 text = "fragile. I only have two tart shells left. So I have to be | really careful, because I have no room for error. Oh, my"
+		 intervals [212]:
+			 xmin = 1758.94
+			 xmax = 1767.22
+			 text = "gosh, I'm so nervous. Bakers, you have five minutes left. | All right, lots of details. All right, guys, keep going. Got"
+		 intervals [213]:
+			 xmin = 1767.22
+			 xmax = 1774.5
+			 text = "time, I got time, I got time. I'm gonna get it out. For a run to | the blast chiller, to check on my water sea penicato."
+		 intervals [214]:
+			 xmin = 1774.5
+			 xmax = 1786.44
+			 text = "Penicato. Yo, yo, we got this. Looks so yummy. One minute | left, Bakers, let's go. Okay, Kers. Focus, focus, focus."
+		 intervals [215]:
+			 xmin = 1786.44
+			 xmax = 1804.7
+			 text = "Almost there. Ten, nine, eight, seven, six, five, four, | three, two, one, time's up. Oh. Good job, everyone. I would"
+		 intervals [216]:
+			 xmin = 1804.7
+			 xmax = 1815.32
+			 text = "need that. This is the best dessert I've plated yet. This is | Daughter Janiah. Bakers, we asked you to create a plated"
+		 intervals [217]:
+			 xmin = 1815.32
+			 xmax = 1823.54
+			 text = "chocolate dessert featuring an ingredient from our | international pantry. Tim, please bring us your dessert."
+		 intervals [218]:
+			 xmin = 1823.54
+			 xmax = 1833.08
+			 text = "I've made a blue corn chocolate donut with a rose water and | raspberry coulis. I am astounded at the plate you presented"
+		 intervals [219]:
+			 xmin = 1833.08
+			 xmax = 1841.98
+			 text = "us. It's so clean and neat. And you chose a donut which, of | course, I get the slight joke, given you're a profession as a"
+		 intervals [220]:
+			 xmin = 1841.98
+			 xmax = 1855.6
+			 text = "policeman, but that is not like any donut. You're going to | find a donut store. Let's give it a try. Well, Tim, I thought"
+		 intervals [221]:
+			 xmin = 1855.6
+			 xmax = 1865.18
+			 text = "your donut's texture was so dreamy. It had that airiness and | lightness and was very chocolatey, but you could"
+		 intervals [222]:
+			 xmin = 1865.18
+			 xmax = 1874.22
+			 text = "definitely taste the blue corn. I so very much wish that you | would give me that recipe. That balance between the rich"
+		 intervals [223]:
+			 xmin = 1874.22
+			 xmax = 1883.52
+			 text = "chocolate and the perfume of the blue corn, it takes over | your palate, but in a good way, that postcard from your son"
+		 intervals [224]:
+			 xmin = 1883.52
+			 xmax = 1895.24
+			 text = "Clay gave you just that drive you needed. Thank you, Jedis. | Kristen, please bring us your plate. I made a waddle-sea"
+		 intervals [225]:
+			 xmin = 1895.24
+			 xmax = 1903.58
+			 text = "panna cotta and a chocolate hazelnut shortbread. Kristen, | you have really smartened up your plating style. Thank you."
+		 intervals [226]:
+			 xmin = 1903.58
+			 xmax = 1917.02
+			 text = "It is composed and it looks like your panna cotta set okay. | Shall we give this a taste? Mm-hmm. Kristen, your dessert's"
+		 intervals [227]:
+			 xmin = 1917.02
+			 xmax = 1927.78
+			 text = "waddle-seed featured so beautifully. It was definitely | the start of that plate. Your shortbread tasted great. The"
+		 intervals [228]:
+			 xmin = 1927.78
+			 xmax = 1936.6
+			 text = "only thing I did not like your panna cotta, it was too tart. It | needed a little more sugar. But you have presented a"
+		 intervals [229]:
+			 xmin = 1936.6
+			 xmax = 1943.9
+			 text = "cohesive, well-rounded, plated dessert. Thank goodness | for this advantage and Chef Emma, because I would not have a"
+		 intervals [230]:
+			 xmin = 1943.9
+			 xmax = 1953.94
+			 text = "dessert to present. Mike, please bring us your dessert. I | present to you a matcha and a zucca roulade with milk"
+		 intervals [231]:
+			 xmin = 1953.94
+			 xmax = 1961.98
+			 text = "chocolate ganache, a zuccy bean jellies, and a tempered | chocolate garnish. This is a beautiful plate. Thank you."
+		 intervals [232]:
+			 xmin = 1961.98
+			 xmax = 1967.58
+			 text = "I'm feeling nervous. No matter how confident I've been in | any of the desserts that I've given the judges, they have"
+		 intervals [233]:
+			 xmin = 1967.58
+			 xmax = 1977.16
+			 text = "faces that are very hard to read when they're eating your | dessert. Mike, Mikey, Michael. Now I'm in trouble. Yeah,"
+		 intervals [234]:
+			 xmin = 1977.16
+			 xmax = 1993.76
+			 text = "yeah. Mike, beautifully beautiful presentation. I love | how you cut the roulade on a bias to give it height. You should"
+		 intervals [235]:
+			 xmin = 1993.76
+			 xmax = 2000.86
+			 text = "be very proud of yourself. Thank you. I got the a zuccy bean | flavor, but I got that more than the chocolate. I lost the"
+		 intervals [236]:
+			 xmin = 2000.86
+			 xmax = 2007.92
+			 text = "chocolate in every aspect of the dessert. The milk | chocolate was a little mild against that earthy intensity"
+		 intervals [237]:
+			 xmin = 2007.92
+			 xmax = 2016.42
+			 text = "of a zuccy. But what I am very proud of, Mike, is your plate | presentation, your thought process, and the composition"
+		 intervals [238]:
+			 xmin = 2016.42
+			 xmax = 2027.92
+			 text = "of what you've presented to us. Thank you so much. Allie, | please bring it. I created a milk chocolate vertical sumac"
+		 intervals [239]:
+			 xmin = 2027.92
+			 xmax = 2050.28
+			 text = "tart with a milk chocolate sumac ganache and a sumac caramel | sauce. Allie, absolutely gorgeous. Allie, your tart"
+		 intervals [240]:
+			 xmin = 2050.28
+			 xmax = 2057.719
+			 text = "shell, great crumb. It had a bite and a crunch and a flakiness | to it. That being said, you missed it on the caramel. You"
+		 intervals [241]:
+			 xmin = 2057.719
+			 xmax = 2065.84
+			 text = "didn't get that caramel there, and I couldn't taste the | sumac in it. If you have a tart that size and literally half a"
+		 intervals [242]:
+			 xmin = 2065.84
+			 xmax = 2074.46
+			 text = "teaspoon of caramel, you're not going to get that caramel in | every bite. Yeah. And I wanted more sumac. The real selling"
+		 intervals [243]:
+			 xmin = 2074.46
+			 xmax = 2084.48
+			 text = "feature of sumac is this sparkle of acidity. Yeah. So I | really wanted more of that. I am a little disappointed, but I"
+		 intervals [244]:
+			 xmin = 2084.48
+			 xmax = 2093.54
+			 text = "hope that my plating skills and presentation are enough to | keep me here. Ashley, please bring us your dessert. I made a"
+		 intervals [245]:
+			 xmin = 2093.54
+			 xmax = 2101.84
+			 text = "tiger nut, a tiger nut brittle, and a maple tiger nut | crumble. What you've given us is a wonderfully beautiful"
+		 intervals [246]:
+			 xmin = 2101.84
+			 xmax = 2111.16
+			 text = "plate. The elements on the plate make sense, and this is a big | step up for you. Ashley, I want to congratulate you on that."
+		 intervals [247]:
+			 xmin = 2111.16
+			 xmax = 2125.68
+			 text = "Thank you. Time for a taste. Ashley, your Nanaimo bar, the | custard layer and the chocolate layer were both beautiful."
+		 intervals [248]:
+			 xmin = 2125.68
+			 xmax = 2133.38
+			 text = "I did run into slight issues with the brittle. A plated | dessert is meant so you could have crumbled your brittle a"
+		 intervals [249]:
+			 xmin = 2133.38
+			 xmax = 2141.26
+			 text = "little bit so that it can fit neatly on a fork. But the way you | integrated the tiger nut into that Nanaimo bar base"
+		 intervals [250]:
+			 xmin = 2141.26
+			 xmax = 2150.48
+			 text = "particularly gave it such texture and body and flavor at the | same time partnered with that intense chocolate, the"
+		 intervals [251]:
+			 xmin = 2150.48
+			 xmax = 2158.24
+			 text = "ganache on top. It was sublime. Thank you. So obviously | getting that postcard did something. It's lit a fire in you."
+		 intervals [252]:
+			 xmin = 2158.24
+			 xmax = 2169.48
+			 text = "I can see that. I believe strongly. Your daughter is nothing | but proud of you. And we're super. Emma, please bring us your"
+		 intervals [253]:
+			 xmin = 2169.48
+			 xmax = 2180.4
+			 text = "dessert. I made a milk chocolate black sesame mochi filled | with black sesame milk chocolate ganache as well as a black"
+		 intervals [254]:
+			 xmin = 2180.4
+			 xmax = 2188.94
+			 text = "sesame chocolate salble. You are plating, I think it's | original and creative, and the mochi has got that clarity to"
+		 intervals [255]:
+			 xmin = 2188.94
+			 xmax = 2201.82
+			 text = "it. So you can see that dark intense sesame filling hiding | underneath. I can't wait to jump in. Emma, in giving us the"
+		 intervals [256]:
+			 xmin = 2201.82
+			 xmax = 2210.04
+			 text = "flavor of your black sesame paste, I think it was there. More | pronounced in the mochi than the salble. The chocolate"
+		 intervals [257]:
+			 xmin = 2210.04
+			 xmax = 2218.5
+			 text = "dominated the salble. So the two together in one bite were | equally balanced. But eating your mochi bowl, the filling"
+		 intervals [258]:
+			 xmin = 2218.5
+			 xmax = 2224.86
+			 text = "inside was a little bit too thick. So it was quite hard to | break into, and it's normally meant to be very smooth. And"
+		 intervals [259]:
+			 xmin = 2224.86
+			 xmax = 2233.48
+			 text = "your mochi itself too glutinous. It was really elastic. So I | think you need to refine your technique there. Thank you."
+		 intervals [260]:
+			 xmin = 2233.48
+			 xmax = 2248.74
+			 text = "I'm really getting worried that I might be going home today. | Bakers, we asked for a plated chocolate dessert featuring"
+		 intervals [261]:
+			 xmin = 2248.74
+			 xmax = 2257.44
+			 text = "an ingredient from our global pantry. Some of you took us on | exciting voyages filled with irresistible flavors and"
+		 intervals [262]:
+			 xmin = 2257.44
+			 xmax = 2266.6
+			 text = "innovative plates. But sadly, not everyone's dessert had | the impact we were hoping for. When I call your name, please"
+		 intervals [263]:
+			 xmin = 2266.6
+			 xmax = 2295.38
+			 text = "step forward. Mike. Mike. And... Both of you are safe. Tim | and Ashley, please step forward. The two of you had our"
+		 intervals [264]:
+			 xmin = 2295.38
+			 xmax = 2312.52
+			 text = "favorite desserts of this challenge. Thank you. But who had | the best dessert? Congratulations, Ashley. I'm so"
+		 intervals [265]:
+			 xmin = 2312.52
+			 xmax = 2320.72
+			 text = "excited. My daughter will be so proud of me. Ashley, your | tiger nut and enymo bar had ferocious flavor. We heard your"
+		 intervals [266]:
+			 xmin = 2320.72
+			 xmax = 2333.5
+			 text = "roar of determination in this challenge. Keep it up. Thank | you. Thank you. Emma and Ali, unfortunately, your desserts"
+		 intervals [267]:
+			 xmin = 2333.5
+			 xmax = 2343.5
+			 text = "were not as successful. Ali, we have come to expect elegant | plates from you, which is exactly what you gave vertical"
+		 intervals [268]:
+			 xmin = 2343.5
+			 xmax = 2354.46
+			 text = "tart. It was striking. However, in a dessert where sumac was | meant to be showcased, it felt like an afterthought. Emma,"
+		 intervals [269]:
+			 xmin = 2354.46
+			 xmax = 2360.34
+			 text = "we thought your plating was charming, and you definitely | featured black sesame paste throughout your dessert."
+		 intervals [270]:
+			 xmin = 2360.34
+			 xmax = 2370.44
+			 text = "Sadly, we found your mochi chewy and your sablee dry. | Unfortunately, one of you must leave this kitchen. The"
+		 intervals [271]:
+			 xmin = 2370.44
+			 xmax = 2392.54
+			 text = "baker who is going home is... Ali. Ali, you are an incredibly | talented baker with an artist's touch. You've shown us an"
+		 intervals [272]:
+			 xmin = 2392.54
+			 xmax = 2399.32
+			 text = "impressive array of techniques, and we know your baking is | going to become nothing short of exceptional. This whole"
+		 intervals [273]:
+			 xmin = 2399.32
+			 xmax = 2406.46
+			 text = "experience has been so incredible, and I'm so excited to be | able to share my message and my story to everyone out there."
+		 intervals [274]:
+			 xmin = 2406.46
+			 xmax = 2412.68
+			 text = "Indigenous people need to be seen and heard, and I helped | take a little step forward for my own work. I love my people,"
+		 intervals [275]:
+			 xmin = 2412.68
+			 xmax = 2418.88
+			 text = "and I love that. Grateful for all of the knowledge I've | gotten. It's only going to help me become a better baker."
+		 intervals [276]:
+			 xmin = 2418.88
+			 xmax = 2433.42
+			 text = "This is just the beginning. Wow. Next time on Great | Chocolate Showdown... Let's get ready to crumble! ...the"
+		 intervals [277]:
+			 xmin = 2433.42
+			 xmax = 2440.12
+			 text = "final five bakers tackle dessert sandwiches... | Delicious. ...from bread rolls to starring rolls... Come"
+		 intervals [278]:
+			 xmin = 2440.12
+			 xmax = 2447.42
+			 text = "get your popcorn! The bakers are cast in a blockbuster | elimination challenge. Let's do this. Drama unfolds in"
+		 intervals [279]:
+			 xmin = 2447.42
+			 xmax = 2471.0
+			 text = "their most epic bake-y-est. Chocolate background player | in your desserts again. You"

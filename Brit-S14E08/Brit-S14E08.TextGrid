@@ -1,0 +1,1222 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2989.62
+tiers? <exists>
+size = 1
+item []: 
+	 item [1]:
+		 class = "IntervalTier"
+		 name = "silences"
+		 xmin = 0
+		 xmax = 2989.62
+		 intervals: size = 302
+		 intervals [1]:
+			 xmin = 0.0
+			 xmax = 1.5
+			 text = "[Silence]"
+		 intervals [2]:
+			 xmin = 1.5
+			 xmax = 15.76
+			 text = "It's party week today! Come on, Paul, let's do the conga. I am | buzzing. BOOING Tom was so excited when I said it was party"
+		 intervals [3]:
+			 xmin = 15.76
+			 xmax = 22.76
+			 text = "week. He's been hoping for this theme for years. Vote for the | Tom Allen party, Tom Allen for Prime Minister! Eventually,"
+		 intervals [4]:
+			 xmin = 22.76
+			 xmax = 33.58
+			 text = "vote for the Tom Allen party, everyone! Oh, that's sort of | party. I knew it was too good to be true. I'll vote for Tom."
+		 intervals [5]:
+			 xmin = 33.58
+			 xmax = 63.58
+			 text = "Thanks, Pistone. Prime Minister's vote! CHEERING | CHEERING Hello and welcome. It was party week in the tent."
+		 intervals [6]:
+			 xmin = 63.58
+			 xmax = 80.14
+			 text = "Something never attempted before, and Prue knew there was | only one way to get through it. Nice nose. Prue! Come on. Come"
+		 intervals [7]:
+			 xmin = 80.14
+			 xmax = 89.64
+			 text = "on, let's go. Put the bottle. I know. I know. I'm so sorry. | Josh was every eight-year-old at a party after too much"
+		 intervals [8]:
+			 xmin = 89.64
+			 xmax = 103.44
+			 text = "sugar. Just down to kind of coke in about a minute. And it's | just time for the latest instalment of Who Knew with Prue."
+		 intervals [9]:
+			 xmin = 103.44
+			 xmax = 116.52000000000001
+			 text = "Some trees are bisexual. They're male and female on the same | tree. And... And a reminder that you can watch the rest of"
+		 intervals [10]:
+			 xmin = 116.52000000000001
+			 xmax = 126.02
+			 text = "that episode on Channel 4 Catch Up. Tom will be back later to | inspect the party food. Who's helped with the catering?"
+		 intervals [11]:
+			 xmin = 126.02
+			 xmax = 138.0
+			 text = "CHEERING And, of course, we love having a peek at what you've | been baking in your kitchens at home. Like Anne from Lithams"
+		 intervals [12]:
+			 xmin = 138.0
+			 xmax = 145.96
+			 text = "and Anne's, who wanted to show off the cake she made for her | husband, Stephen's 70th birthday. Stephen's a keen tennis"
+		 intervals [13]:
+			 xmin = 145.96
+			 xmax = 156.12
+			 text = "player, and here's his cake. Clearly, Stephen has just | completed a particularly exhausting five-setter there."
+		 intervals [14]:
+			 xmin = 156.12
+			 xmax = 162.02
+			 text = "But game-setting match to you, Anne. Brilliant. There'll | be more of those later, along with details of where to send"
+		 intervals [15]:
+			 xmin = 162.02
+			 xmax = 171.52
+			 text = "your pictures. Now, sadly, the party's over for one of the | bakers, Christie. Oh! During party week, Christie really"
+		 intervals [16]:
+			 xmin = 171.52
+			 xmax = 181.62
+			 text = "let her hair down and said something so shocking she | couldn't even believe it herself. I like sausage rolls. I"
+		 intervals [17]:
+			 xmin = 181.62
+			 xmax = 189.08
+			 text = "like sausage rolls as well, Christie. Something we can | discuss in a lot more detail when she's here later in the"
+		 intervals [18]:
+			 xmin = 189.08
+			 xmax = 199.6
+			 text = "show. To help us raise a toast to party week, I've invited a | fantastic panel of celebrity Bake Off fans. Present us,"
+		 intervals [19]:
+			 xmin = 199.6
+			 xmax = 213.36
+			 text = "Carla Moffitt, Camille Nabil Abou-Washid and Camille and | actress and writer, Ashring B. Now, Carla, just lovely to"
+		 intervals [20]:
+			 xmin = 213.36
+			 xmax = 219.64
+			 text = "have you with us. If you're hosting a party, what's on the | menu? Anything that's in the whoop-sile. Fucking going"
+		 intervals [21]:
+			 xmin = 219.64
+			 xmax = 227.74
+			 text = "there. Just anything, be it sausage rolls, Scotch eggs, | pork pies, paste pudding, breadsticks, sandwiches. Just"
+		 intervals [22]:
+			 xmin = 227.74
+			 xmax = 235.62
+			 text = "like, you know... That sounds like a snack. What about you, | Ashring? I like when someone tricks me. Like, there's a"
+		 intervals [23]:
+			 xmin = 235.62
+			 xmax = 242.28
+			 text = "whole dinner but small. Like, at Yorkshire putting with a | whole dinner in it. You know, those little ones. Or like a"
+		 intervals [24]:
+			 xmin = 242.28
+			 xmax = 249.68
+			 text = "little sausage roll or like a thimble of magic mushrooms or | something. You know, just party quick. Buffet things that"
+		 intervals [25]:
+			 xmin = 249.68
+			 xmax = 256.42
+			 text = "you're nibbling on. Nabil, what food do you want to see on a | buffet table? I mean, I like things like Scotch eggs. Only"
+		 intervals [26]:
+			 xmin = 256.42
+			 xmax = 262.36
+			 text = "enough for a lot of these desserts. I grew up in Nigeria and | saw a lot of our desserts and a lot of our pastry-type stuff is"
+		 intervals [27]:
+			 xmin = 262.36
+			 xmax = 268.74
+			 text = "very Scottish. So, like, we like sausage rolls, Scotch | eggs. Very, very, very popular in Nigeria. Anything dipped"
+		 intervals [28]:
+			 xmin = 268.74
+			 xmax = 279.5
+			 text = "in lard? Yeah. Me too. That's the results. Ditto. OK, well, | let's remind ourselves what happened when Bake Off had a"
+		 intervals [29]:
+			 xmin = 279.5
+			 xmax = 290.76
+			 text = "bash. The quarterfinal. BEEPS And time to get the party | started. With Paul's all-time favourite. Sausage rolls."
+		 intervals [30]:
+			 xmin = 290.76
+			 xmax = 298.24
+			 text = "Soy sauce, ginger, garlic. In the signature. Anything's a | louding pace, for sure. But not a sausage roll! Matty turned"
+		 intervals [31]:
+			 xmin = 298.24
+			 xmax = 305.7
+			 text = "up the heat. Nice bit of kick there from the chilli. A bit of | chilli flakes, yeah. And earned himself a handshake. Aw!"
+		 intervals [32]:
+			 xmin = 305.7
+			 xmax = 313.18
+			 text = "Thank you for bringing me a sausage roll. Caterpillar cakes | in the technical. Oh, yeah. What anything but child's play."
+		 intervals [33]:
+			 xmin = 313.18
+			 xmax = 321.72
+			 text = "In the first spot, we have this one. Tasia. Beige was banned. | She didn't rise. In the colourful, all you can bake buffet"
+		 intervals [34]:
+			 xmin = 321.72
+			 xmax = 328.0
+			 text = "showstopper. Josh, I think you've done really well. It's | hard to fault anything. Sadly, the party was over for"
+		 intervals [35]:
+			 xmin = 328.0
+			 xmax = 335.98
+			 text = "Christy. It's a bit rough and ready. Oh, no. It tastes great. | And she left the tent. And Matty's sporty bake..."
+		 intervals [36]:
+			 xmin = 335.98
+			 xmax = 348.2
+			 text = "Cricketball pies. That's delicious. ...scored him his | second star baker. APPLAUSE So, the signature challenge"
+		 intervals [37]:
+			 xmin = 348.2
+			 xmax = 355.36
+			 text = "was to make Paul's all-time top treat, sausage rolls. Now, | Bill, you quite like a bit of cooking, don't you? But can you"
+		 intervals [38]:
+			 xmin = 355.36
+			 xmax = 362.42
+			 text = "make pastry? No, OK, here's the thing. Like I said, | culturally, we were told that cooking was OK for guys, but"
+		 intervals [39]:
+			 xmin = 362.42
+			 xmax = 370.52
+			 text = "only girls bake. Oh! Yeah, I know. So, currently, I'm | learning to bake from my daughters. Yeah, I'm trying to, you"
+		 intervals [40]:
+			 xmin = 370.52
+			 xmax = 380.16
+			 text = "know, reverse all the toxic masculinity, which is almost as | bad as gluten. LAUGHTER Well, this might surprise you, but I"
+		 intervals [41]:
+			 xmin = 380.16
+			 xmax = 390.72
+			 text = "can make the sausage roll. Just push it down a hill. Ay! | APPLAUSE What a lovely smatter of applause. Thank you so"
+		 intervals [42]:
+			 xmin = 390.72
+			 xmax = 399.4
+			 text = "much. On to Dan. Last week, he stunned the judges by serving | up Thai green curry creme caramel that sounded disgusting,"
+		 intervals [43]:
+			 xmin = 399.4
+			 xmax = 406.58
+			 text = "but tasted delicious. This week, it was dim sum-inspired | sausage rolls. Sadly, the judges didn't go for his"
+		 intervals [44]:
+			 xmin = 406.58
+			 xmax = 412.38
+			 text = "Chinese-inspired pork and prawn fillings. Well, I'll be | totally honest. I might sound thickier, but I didn't know"
+		 intervals [45]:
+			 xmin = 412.38
+			 xmax = 420.16
+			 text = "you could put stuff other than sausages in sausage rolls. Do | you know what I mean? The poll would be like, You can't! Well,"
+		 intervals [46]:
+			 xmin = 420.16
+			 xmax = 426.34
+			 text = "yeah, because I just thought a sausage roll was just like a | big old sausage and some pastry. It is! I mean, what"
+		 intervals [47]:
+			 xmin = 426.34
+			 xmax = 433.26
+			 text = "qualifies a sausage roll if there's no sausage in it? Well, | it's the big thoughts here that we're dealing with. But,"
+		 intervals [48]:
+			 xmin = 433.26
+			 xmax = 440.34
+			 text = "like, yeah, sticking prawns in that in. Oh, I don't know how I | feel about that. I just think we need to stick to the basics. A"
+		 intervals [49]:
+			 xmin = 440.34
+			 xmax = 451.32
+			 text = "sausage roll should have some form of rolling. That was done | to a sausage of some kind. I mean, if we don't hold on to this, I"
+		 intervals [50]:
+			 xmin = 451.32
+			 xmax = 457.86
+			 text = "don't know where we're going as a society. But I loved that | something different was tried, that they threw a prawn into"
+		 intervals [51]:
+			 xmin = 457.86
+			 xmax = 464.0
+			 text = "a sausage roll thing. And also, the show demands it. Now they | expect, like, you know, glass-aid bombs inside of cakes"
+		 intervals [52]:
+			 xmin = 464.0
+			 xmax = 469.18
+			 text = "that can, you know, connect to at least 3G of internet. And | so, you can listen to the email on them. Like, the"
+		 intervals [53]:
+			 xmin = 469.18
+			 xmax = 475.54
+			 text = "expectations are high, so, you know, give it a good whirl, | I'd say. Paul made quite a claim. You can't beat a good"
+		 intervals [54]:
+			 xmin = 475.54
+			 xmax = 483.64
+			 text = "sausage roll. I grew up with sausage rolls. I baked millions | and millions of sausage rolls in my time. I decided to work"
+		 intervals [55]:
+			 xmin = 483.64
+			 xmax = 492.88
+			 text = "out just how long it would take to bake millions and millions | of sausage rolls. Allowing for generous time to make the"
+		 intervals [56]:
+			 xmin = 492.88
+			 xmax = 500.38
+			 text = "pastry and filling, then bake them for 30 minutes in batches | of 12. Even if you only made one million and did nothing else"
+		 intervals [57]:
+			 xmin = 500.38
+			 xmax = 514.82
+			 text = "for eight hours a day, that's 45,000 days, which is over 124 | years. Unfortunately, Tasha and Christie got distracted"
+		 intervals [58]:
+			 xmin = 514.82
+			 xmax = 531.48
+			 text = "from the task in hand when they discovered that they could | see each other through their ovens. LAUGHTER Ours are fun."
+		 intervals [59]:
+			 xmin = 531.48
+			 xmax = 538.28
+			 text = "Now, Matty stayed classic with his sausage rolls. Pork, | onion, apple, oh, and one other ingredient. Where are the"
+		 intervals [60]:
+			 xmin = 538.28
+			 xmax = 552.66
+			 text = "chilli going? Up my arse, pru. Where's your... LAUGHTER In | the sausage meat, obviously. Matty triumphed in the"
+		 intervals [61]:
+			 xmin = 552.66
+			 xmax = 562.44
+			 text = "sausage roll signature because what did his flaky pastry | have, everyone? LAMINATION! Of course, lamination! Now,"
+		 intervals [62]:
+			 xmin = 562.44
+			 xmax = 574.22
+			 text = "here's the moment. Paul decided Matty was his man of the | match. Oh, nice crisp. Nice bit of kick there from the"
+		 intervals [63]:
+			 xmin = 574.22
+			 xmax = 583.64
+			 text = "chilli. Little bit of chilli flakes, yeah. Ah! Thank you for | bringing me sausage rolls. Very good sauce. It's"
+		 intervals [64]:
+			 xmin = 583.64
+			 xmax = 590.72
+			 text = "delicious. The onions really work, the apple really works. | The chilli is great in there. It's really good. Thank you,"
+		 intervals [65]:
+			 xmin = 590.72
+			 xmax = 600.06
+			 text = "Matty. Congrats to Matty on his Hollywood handshake! | APPLAUSE I'm still thrown by the fact that everyone said"
+		 intervals [66]:
+			 xmin = 600.06
+			 xmax = 607.78
+			 text = "lamination and we just had to pretend like it was normal. | LAUGHTER Lamination! OK, I'll just go on with my life now."
+		 intervals [67]:
+			 xmin = 607.78
+			 xmax = 613.78
+			 text = "Scarlet, were you happy to see Matty get a handshake? Yeah, | like, his little eyes lit up and, like, yes, I know that, he"
+		 intervals [68]:
+			 xmin = 613.78
+			 xmax = 622.3
+			 text = "did a simple sausage roll, but, like, his bottom was hard, | his pastry was flaky. LAUGHTER He'd add lamination. He'd"
+		 intervals [69]:
+			 xmin = 622.3
+			 xmax = 627.8
+			 text = "add all the elements you need, didn't he? The tricky | technical challenge was to make an all-too-familiar"
+		 intervals [70]:
+			 xmin = 627.8
+			 xmax = 636.12
+			 text = "caterpillar cake, but that wasn't so familiar that Bake Off | got sued by a large supermarket chain. LAUGHTER Over to"
+		 intervals [71]:
+			 xmin = 636.12
+			 xmax = 644.76
+			 text = "Prue. So, Paul, the famous caterpillar cake. The trick | is... Not to infringe copyright. LAUGHTER The trick is"
+		 intervals [72]:
+			 xmin = 644.76
+			 xmax = 653.22
+			 text = "getting the bake right. Oh, OK, fair enough. Prue and Paul | were a bit ying and yang about the challenge. It's a terrific"
+		 intervals [73]:
+			 xmin = 653.22
+			 xmax = 661.26
+			 text = "challenge. It's a Swiss roll sponge. LAUGHTER I think the | caterpillar cake is a great way of going, I am friends with"
+		 intervals [74]:
+			 xmin = 661.26
+			 xmax = 667.92
+			 text = "you and I care about you and your birthday, but, like, within | office working hours. LAUGHTER It's obviously quite a"
+		 intervals [75]:
+			 xmin = 667.92
+			 xmax = 673.56
+			 text = "political cake because there are the lawsuits between | Colin and Cuthbert, but I have a bit of showbiz gossip that"
+		 intervals [76]:
+			 xmin = 673.56
+			 xmax = 684.14
+			 text = "after the lawsuits, they got together. And they had a little | larvae cupcake. LAUGHTER It was just a little cake."
+		 intervals [77]:
+			 xmin = 684.14
+			 xmax = 691.94
+			 text = "LAUGHTER Now, the instructions demanded that the baker's | cup bits out of their Swiss roll sponge to achieve the"
+		 intervals [78]:
+			 xmin = 691.94
+			 xmax = 700.08
+			 text = "required shape. Then it was time for the bakers to give their | caterpillar cakes a face full of childish appeal. Enjoy"
+		 intervals [79]:
+			 xmin = 700.08
+			 xmax = 705.56
+			 text = "yourselves, kiddy winks. The decorations is where they can | have a little bit of their artistic flair. All kids love that"
+		 intervals [80]:
+			 xmin = 705.56
+			 xmax = 713.82
+			 text = "at the birthday party. I am going to do the face. I'm going to | let it set and then put its little features on. Rosie Cheeks"
+		 intervals [81]:
+			 xmin = 713.82
+			 xmax = 720.26
+			 text = "may look quite nice. This will be the best bit of the whole | cake, I think. It's supposed to be a little cuter. It's a bit"
+		 intervals [82]:
+			 xmin = 720.26
+			 xmax = 737.36
+			 text = "weird. It's not quite the children's party I was hoping for. | WHISTLE BLOWS WHISTLE BLOWS WHISTLE BLOWS WHISTLE BLOWS"
+		 intervals [83]:
+			 xmin = 737.36
+			 xmax = 751.5
+			 text = "WHISTLE BLOWS WHISTLE BLOWS WHISTLE BLOWS WHISTLE BLOWS | LAUGHTER This is wow! Joe! You're acting. Go to the"
+		 intervals [84]:
+			 xmin = 751.5
+			 xmax = 758.3
+			 text = "Lattricks. After award-winning. Wow. I think my favourite | there was Matties, because nothing says fun children's"
+		 intervals [85]:
+			 xmin = 758.3
+			 xmax = 766.22
+			 text = "party cake like a caterpillar that's had its mouth stitched | up. LAUGHTER It looked like a new character in Thomas the"
+		 intervals [86]:
+			 xmin = 766.22
+			 xmax = 774.54
+			 text = "Tank engine. Thomas the cheery one, Gordon the boasty one | and Simon the serial killer. LAUGHTER Did any of those"
+		 intervals [87]:
+			 xmin = 774.54
+			 xmax = 791.08
+			 text = "appeal to you? The faces on them. No. No. OK. Time now to ask | the big question. What's that? That was, in fact, the dough"
+		 intervals [88]:
+			 xmin = 791.08
+			 xmax = 799.36
+			 text = "for Tasha's bread milk pigs. Of course it was. They formed | part of her ambitious farmyard themed buffet. There were so"
+		 intervals [89]:
+			 xmin = 799.36
+			 xmax = 807.02
+			 text = "many elements to her showstopper that Mattie was wondering | just how long Tasha would be stood there listing them. I've"
+		 intervals [90]:
+			 xmin = 807.02
+			 xmax = 814.84
+			 text = "made milk bread, pigs and blackberry creme de creme that | show and pistachio and raspberry flavoured Viennese rolls"
+		 intervals [91]:
+			 xmin = 814.84
+			 xmax = 825.74
+			 text = "with a raspberry and peach jam. LAUGHTER In happier news for | the second time this series, Mattie was awarded star baker."
+		 intervals [92]:
+			 xmin = 825.74
+			 xmax = 842.1
+			 text = "Congratulations to Mattie! Yay! Mattie was pulling out all | the stops with his sporting themed buffet showstopper."
+		 intervals [93]:
+			 xmin = 842.1
+			 xmax = 850.64
+			 text = "We've got a cricket ball curry pie, a orange cupcake golf | course and some creme brulee donut basketballs. Until now,"
+		 intervals [94]:
+			 xmin = 850.64
+			 xmax = 857.84
+			 text = "the question, what's that spongy orange lump doing on a golf | course has only been asked when Donald Trump's playing 18"
+		 intervals [95]:
+			 xmin = 857.84
+			 xmax = 869.7
+			 text = "holes at Mar-a-Dame. APPLAUSE Josh's impressive | showstopper made the battle for star baker a close race. Was"
+		 intervals [96]:
+			 xmin = 869.7
+			 xmax = 875.32
+			 text = "Mattie the right choice? I mean, I'm not going to take it away | from him because he did amazing, but that Christmas"
+		 intervals [97]:
+			 xmin = 875.32
+			 xmax = 883.18
+			 text = "showstopper... Sounds like you're taking it away from him | there, Ed. I'm sorry! But those little snowmen macaroons,"
+		 intervals [98]:
+			 xmin = 883.18
+			 xmax = 890.24
+			 text = "like, I would pay for them. And let's have an extra burst of | celebration to mark the fact that thanks to Mattie, we saw"
+		 intervals [99]:
+			 xmin = 890.24
+			 xmax = 905.48
+			 text = "the first appearance in the tent this series of a deep fat | fryer. APPLAUSE Thanks, guys. And after the break, Tom"
+		 intervals [100]:
+			 xmin = 905.48
+			 xmax = 912.82
+			 text = "Allen will be here with his big paper plate to sample the | buffet provided by our audience bakers. Back in a bit."
+		 intervals [101]:
+			 xmin = 912.82
+			 xmax = 931.12
+			 text = "APPLAUSE APPLAUSE Welcome back. I'm here with Bake Off Fan | Scarlet Moffat, Nabil Abdul Rashid and Ashing Bee. Time now"
+		 intervals [102]:
+			 xmin = 931.12
+			 xmax = 944.9
+			 text = "for the party to really get started. It's Tom's tent talk! | APPLAUSE APPLAUSE Oh, hi, everyone. Hi. Hi. Sorry, we've"
+		 intervals [103]:
+			 xmin = 944.9
+			 xmax = 951.62
+			 text = "been having such a party backstage. Hi. Hi. How are you | doing? Oh, the party's in full swing back there. Do you want"
+		 intervals [104]:
+			 xmin = 951.62
+			 xmax = 958.0
+			 text = "any of these? Oh, don't worry about this. Oh, yes, we've had | all your normal party foods, yes. You know, the classics,"
+		 intervals [105]:
+			 xmin = 958.0
+			 xmax = 969.14
+			 text = "brulee doughnuts, courant reeds, bread, pigs. Yes, this | week it was party week. I enjoyed the no beige theme. It meant"
+		 intervals [106]:
+			 xmin = 969.14
+			 xmax = 977.32
+			 text = "we got to see so many colours like Christie's marvellous | sweet factory. Oh, no, that one's beige. Maybe there's"
+		 intervals [107]:
+			 xmin = 977.32
+			 xmax = 985.78
+			 text = "another one. How about Josh's courant? Oh, no, that was | beige as well. OK. How about Tasha's creme diplomat sheep?"
+		 intervals [108]:
+			 xmin = 985.78
+			 xmax = 992.56
+			 text = "Oh, OK, also beige. Gosh, baking things in the oven really | puts the beige back in, doesn't it? Oh, well, never mind."
+		 intervals [109]:
+			 xmin = 992.56
+			 xmax = 998.16
+			 text = "I'll be honest. I don't know if this is a party I really want to | go to. It's all got a bit less friendly in the tent lately."
+		 intervals [110]:
+			 xmin = 998.16
+			 xmax = 1004.64
+			 text = "Remember when they used to all hold hands at the end? Now look | at them. Have they all fallen out? Is it getting too"
+		 intervals [111]:
+			 xmin = 1004.64
+			 xmax = 1010.16
+			 text = "competitive? Or is it the fact that guys have outnumbered | the girls now? And they're all a bit too macho for that."
+		 intervals [112]:
+			 xmin = 1010.16
+			 xmax = 1019.28
+			 text = "Mattie's even sitting like he's in a football team photo. | And speaking of lads, lads, lads, down by the scene on his"
+		 intervals [113]:
+			 xmin = 1019.28
+			 xmax = 1028.68
+			 text = "baking secrets. So what I'll do is look at my children, copy | what someone else is doing. Ha-ha-ha! Ah! Ha-ha-ha! It"
+		 intervals [114]:
+			 xmin = 1028.68
+			 xmax = 1035.28
+			 text = "turns out that Dan is just a copycat and feels nothing but | disdain towards his fellow man. So after all that, it turns"
+		 intervals [115]:
+			 xmin = 1035.28
+			 xmax = 1042.78
+			 text = "out Dan... I actually quite like you. But that's the new | macho tent, isn't it? Just full of men who struggle to show"
+		 intervals [116]:
+			 xmin = 1042.78
+			 xmax = 1053.48
+			 text = "affection for each other. Look at the way Paul talks about | the bakers. Well, let's have a look at these pigs. Well, I"
+		 intervals [117]:
+			 xmin = 1053.48
+			 xmax = 1059.48
+			 text = "suppose that must mean he loves them. Anyway, I'd better get | back to this party. Someone's got the karaoke machine out"
+		 intervals [118]:
+			 xmin = 1059.48
+			 xmax = 1065.44
+			 text = "and the neighbours have called the police. Turn it down, | Prue, for goodness sake. Anyway, see you next week. Prue,"
+		 intervals [119]:
+			 xmin = 1065.44
+			 xmax = 1076.22
+			 text = "get that community support officer out of a headlock. I've | told you! Thanks, Tom. Right, let's take a look at some of the"
+		 intervals [120]:
+			 xmin = 1076.22
+			 xmax = 1087.4
+			 text = "pictures you've been sending in of the baking you've been | doing at home. Emma Inhove wanted to celebrate her daughter"
+		 intervals [121]:
+			 xmin = 1087.4
+			 xmax = 1093.68
+			 text = "Frieda's 10th birthday in style. Not the easiest | challenge, given that Frieda had requested a"
+		 intervals [122]:
+			 xmin = 1093.68
+			 xmax = 1105.2
+			 text = "ferret-themed party. But Emma gave it her best shot and | here's Frieda's cake. Oh, God. Emma also arranged for a real"
+		 intervals [123]:
+			 xmin = 1105.2
+			 xmax = 1113.96
+			 text = "ferret to put in an appearance, and here's the moment the two | ferrets met. Oh, my God. That is a horror picture. All of"
+		 intervals [124]:
+			 xmin = 1113.96
+			 xmax = 1122.84
+			 text = "that. Even the ferrets, like, what the hell is that? When it | comes to creating a birthday cake for her granddaughter"
+		 intervals [125]:
+			 xmin = 1122.84
+			 xmax = 1132.18
+			 text = "Matilda, Deborah in Somerset's not one to chicken out. Oh, | wow. That is great, isn't it? It's a chocolate cake with"
+		 intervals [126]:
+			 xmin = 1132.18
+			 xmax = 1139.32
+			 text = "individually handmade fondant feathers. Meanwhile, in | Middlesex, Natalie was hard at work creating a cake for the"
+		 intervals [127]:
+			 xmin = 1139.32
+			 xmax = 1146.84
+			 text = "family dog Hazel's second birthday. Aw. Just look at that | intelligent little face. Let's find out how successfully"
+		 intervals [128]:
+			 xmin = 1146.84
+			 xmax = 1161.16
+			 text = "Natalie captured Hazel in cake form. Those delicate | features of sportour, aren't they? Happy birthday, Hazel."
+		 intervals [129]:
+			 xmin = 1161.16
+			 xmax = 1168.48
+			 text = "And finally to Kersti in Kent, who's an A-level sociology | student. She decided to put her baking skills to the test"
+		 intervals [130]:
+			 xmin = 1168.48
+			 xmax = 1178.24
+			 text = "with a recreation of none other than German philosopher | Karl Marx. But somewhere along the line, Karl Marx seems to"
+		 intervals [131]:
+			 xmin = 1178.24
+			 xmax = 1199.52
+			 text = "have morphed into Paul Hollywood. Nevertheless, dust is | capital, Kersti. Well done. Thank you for Tom to"
+		 intervals [132]:
+			 xmin = 1199.52
+			 xmax = 1207.5
+			 text = "interrogate our studio audience on the bake they brought | along. Don't let her worry. Over to you, Tom. Thanks, Joe."
+		 intervals [133]:
+			 xmin = 1207.5
+			 xmax = 1214.26
+			 text = "Well, first up, I've got Nicky. Where's Nicky? Oh, Nicky, | right here. Hello. Hello, Nicky. Hello. Who are you here"
+		 intervals [134]:
+			 xmin = 1214.26
+			 xmax = 1222.42
+			 text = "with? James. Hi. You look familiar. Do I? Are you me? Yes, I | think you are. Nicky, how do you know this man? We work"
+		 intervals [135]:
+			 xmin = 1222.42
+			 xmax = 1228.42
+			 text = "together. Where do you work? At an auction house. Well, it | must be a posh one. You seem very posh. No, thank you. So you"
+		 intervals [136]:
+			 xmin = 1228.42
+			 xmax = 1232.82
+			 text = "work together at an auction house. I do. What do you do in the | auction house? I'm behind the scenes. Marketing."
+		 intervals [137]:
+			 xmin = 1232.82
+			 xmax = 1238.46
+			 text = "Marketing, that sort of thing. And what do you do, James? I | mean, I sell oil paintings, watercolours, prints. OK,"
+		 intervals [138]:
+			 xmin = 1238.46
+			 xmax = 1242.8
+			 text = "you're an auctioneer? Yeah, I'm an auctioneer. Have you | been on Flog It? No, I haven't, but I know most of the people"
+		 intervals [139]:
+			 xmin = 1242.8
+			 xmax = 1255.94
+			 text = "who have. Well, why haven't you been on it, James? I've got | pride. You do seem a lot like me, James. OK, well, Nicky and"
+		 intervals [140]:
+			 xmin = 1255.94
+			 xmax = 1261.7
+			 text = "James, what have you brought along here? So that's meant to | be yourself. So you're auctioning off the missing"
+		 intervals [141]:
+			 xmin = 1261.7
+			 xmax = 1268.14
+			 text = "raspberry. That's a raspberry, is it? That is, yes. The | raspberry that's bigger than my head. Yes, that's great. I"
+		 intervals [142]:
+			 xmin = 1268.14
+			 xmax = 1276.14
+			 text = "see, I see. Lovely, lovely. You've got Noel, Alison, Paul | and Pro. Oh, wonderful. Gosh, yes, what lovely hair they all"
+		 intervals [143]:
+			 xmin = 1276.14
+			 xmax = 1283.26
+			 text = "have. No, Joe Brown, though. No, Joe Brown. Yeah, I didn't | have time. Oh, that's charming, isn't it? Oh, what I will say"
+		 intervals [144]:
+			 xmin = 1283.26
+			 xmax = 1288.16
+			 text = "is, are all the Bake Off people, are they in some sort of | quicksand while they're bidding? They're simply"
+		 intervals [145]:
+			 xmin = 1288.16
+			 xmax = 1294.4
+			 text = "disappearing into it. They're in a snowstorm, but they | still kept bidding on that raspberry. Lovely, lovely. Your"
+		 intervals [146]:
+			 xmin = 1294.4
+			 xmax = 1298.88
+			 text = "mum was meant to come. Your mum was meant to come. Yeah, she's | ill. She's ill? Oh, no. Is she OK? What's wrong with her? She"
+		 intervals [147]:
+			 xmin = 1298.88
+			 xmax = 1306.8
+			 text = "made you. She made me. Yes. Like my own mother. And... Well | done, Nicky, well done, James. Lovely to see you and lovely"
+		 intervals [148]:
+			 xmin = 1306.8
+			 xmax = 1318.08
+			 text = "to know what I'd look like wearing glasses. Thank you very | much. Now, I've got Chloe with Chloe. Hello, Chloe. Chloe."
+		 intervals [149]:
+			 xmin = 1318.08
+			 xmax = 1322.26
+			 text = "Chloe, hi, Chloe. Who are you here with today? I'm with my | husband Bradley. Husband Bradley. I'm with my friend"
+		 intervals [150]:
+			 xmin = 1322.26
+			 xmax = 1329.16
+			 text = "Gemma. Gemma, hi. Now, Chloe, what have you done here? We've | made a chocolate cake in the shape of a yurt. Oh, a yurt? A"
+		 intervals [151]:
+			 xmin = 1329.16
+			 xmax = 1334.04
+			 text = "yurt. Which is like a fancy tent, isn't it? Yeah, it is. When | you go glamping. When you go glamping. That's glamorous"
+		 intervals [152]:
+			 xmin = 1334.04
+			 xmax = 1341.36
+			 text = "camping, isn't it? It is. Yes, that's something that people | describe me as, actually. LAUGHTER And it's got avocado"
+		 intervals [153]:
+			 xmin = 1341.36
+			 xmax = 1350.94
+			 text = "chocolate ganache. Really? Avocado? Why avocado? Because | we're vegan. Oh, I knew you'd let us know eventually."
+		 intervals [154]:
+			 xmin = 1350.94
+			 xmax = 1360.14
+			 text = "LAUGHTER Oh, vegans can't keep it hidden, can they? No, | people know. You're vegan. You're vegan. Come in here."
+		 intervals [155]:
+			 xmin = 1360.14
+			 xmax = 1365.4
+			 text = "You're vegan cake and you're both vegan. Yes. Lovely to be | you, vegan. I'm vegetarian. Vegetarian milkless cows."
+		 intervals [156]:
+			 xmin = 1365.4
+			 xmax = 1374.28
+			 text = "Woo! LAUGHTER So, why is this important to you, the yurt and | everything? We love going glamping and on holiday. We go"
+		 intervals [157]:
+			 xmin = 1374.28
+			 xmax = 1381.8
+			 text = "with our friends. What do you like about glamping so much? | It's more adventurous than a hotel, isn't it? Well, is it?"
+		 intervals [158]:
+			 xmin = 1381.8
+			 xmax = 1386.68
+			 text = "It's a tent that has a bed in it. And you have to wear wellies to | go to the toilet. That's exciting. Which you don't have to"
+		 intervals [159]:
+			 xmin = 1386.68
+			 xmax = 1393.96
+			 text = "do. You don't know the hotels I stay in. And so you like the | fact you have to wear wellies to go to the toilet. OK, and do"
+		 intervals [160]:
+			 xmin = 1393.96
+			 xmax = 1398.34
+			 text = "you like going to these places as well? I quite enjoy it. You | quite enjoy it. And that's what you do for a holiday. You just"
+		 intervals [161]:
+			 xmin = 1398.34
+			 xmax = 1407.36
+			 text = "quite enjoy it? Yeah. Bradley, what do you do for a living? I | work in tech support. And... OK, thanks, Chloe. Give it up"
+		 intervals [162]:
+			 xmin = 1407.36
+			 xmax = 1418.66
+			 text = "for Chloe and Anne, Bradley and Gemma. OK, where's Crystal? | Crystal, Crystal. Over here. Crystal. Crystal. Hello. And"
+		 intervals [163]:
+			 xmin = 1418.66
+			 xmax = 1426.96
+			 text = "Emma. Emma and... Becky. Becky. We co-founded a group | called Mothers Rise Up. Mothers Rise Up, what's that all"
+		 intervals [164]:
+			 xmin = 1426.96
+			 xmax = 1434.42
+			 text = "about? It's about bread? No, we're mums, and we're rising up | for climate action. Oh, that's very impressive. Mums"
+		 intervals [165]:
+			 xmin = 1434.42
+			 xmax = 1443.84
+			 text = "rising up for climate action. One person clap. And so... Oh, | four people clap. More people clap! And so we decided to take"
+		 intervals [166]:
+			 xmin = 1443.84
+			 xmax = 1450.6
+			 text = "two, bring along, like, good clean energy to your party. So, | like this, and shredded wheat. There's a solar panel there."
+		 intervals [167]:
+			 xmin = 1450.6
+			 xmax = 1455.92
+			 text = "There's a solar panel. Lovely. And they're powering a huge | lightbulb. And you came on public transport? I walked. You"
+		 intervals [168]:
+			 xmin = 1455.92
+			 xmax = 1464.98
+			 text = "walked? From where? I set off about three days ago. You | said... No, you didn't. Very important message. How did you"
+		 intervals [169]:
+			 xmin = 1464.98
+			 xmax = 1472.8
+			 text = "get here? I actually came by car. You came by car. Was it an | electric car? No. OK, anyway, so... No, no, no, no, no, no,"
+		 intervals [170]:
+			 xmin = 1472.8
+			 xmax = 1478.38
+			 text = "no, no, no, no, no, no. Our message is that you don't have to be | pure to make statement about climate. I think that's very"
+		 intervals [171]:
+			 xmin = 1478.38
+			 xmax = 1482.92
+			 text = "important. A very important way to address it as well, I | appreciate it. So, well done, all of you. Thank you so much"
+		 intervals [172]:
+			 xmin = 1482.92
+			 xmax = 1488.78
+			 text = "for coming along today. Thank you. Which ever mode of | transport you used. How did you get here? Private jet. Tube."
+		 intervals [173]:
+			 xmin = 1488.78
+			 xmax = 1494.32
+			 text = "All right, thanks. OK, well done. Crystal and friends, | thank you. Thank you very much. Lovely. OK, now I've got"
+		 intervals [174]:
+			 xmin = 1494.32
+			 xmax = 1506.08
+			 text = "Miles and Gary. Miles and Miles and Gary. Miles and Gary. | Gays. Yes. Gays! Gay Bakers, everyone. Always a winner. And"
+		 intervals [175]:
+			 xmin = 1506.08
+			 xmax = 1512.02
+			 text = "you two are together. Yes, we are. Yes, we are married. You | are married. Very good. OK, great. Sorry, no claps, we're"
+		 intervals [176]:
+			 xmin = 1512.02
+			 xmax = 1518.14
+			 text = "not American. Miles, where are you from? Originally from | Buckinghamshire. You're from Buckinghamshire. But we"
+		 intervals [177]:
+			 xmin = 1518.14
+			 xmax = 1526.28
+			 text = "live in Newcastle. Oh, you live in Newcastle? Yeah! How did | you meet? We met on a course when we were training to be head"
+		 intervals [178]:
+			 xmin = 1526.28
+			 xmax = 1531.82
+			 text = "teachers. You're head teachers? You were. You were head | teachers. Why did you stop being head teachers? Were you"
+		 intervals [179]:
+			 xmin = 1531.82
+			 xmax = 1538.18
+			 text = "sacked? No. No. We decided we wanted to do something | different, so we set up our own business. Oh, what does that"
+		 intervals [180]:
+			 xmin = 1538.18
+			 xmax = 1544.0
+			 text = "do? We work with schools, helping them to improve, and we do | big, choral events with lots of children. Oh, wow! In the"
+		 intervals [181]:
+			 xmin = 1544.0
+			 xmax = 1549.4
+			 text = "North East. Do you sing? We sing in a couple of choirs, do you? | Do you? Do you? I conduct a choir. You conduct a choir? Yes."
+		 intervals [182]:
+			 xmin = 1549.4
+			 xmax = 1556.8
+			 text = "And this space? Oh, yes, the cake. Sorry, I was coming onto | the cake, Miles. Sorry, I'm not in assembly at the moment."
+		 intervals [183]:
+			 xmin = 1556.8
+			 xmax = 1562.88
+			 text = "Yes, we can talk about the cake you made here. Now, what is it, | Miles? It's a fully inclusive choir. I was going to say"
+		 intervals [184]:
+			 xmin = 1562.88
+			 xmax = 1570.8
+			 text = "inclusive of what? Because there seem to be some | interesting characters. Different skin tones of shoe bun."
+		 intervals [185]:
+			 xmin = 1570.8
+			 xmax = 1578.42
+			 text = "That's very important. Yes, representation. A rainbow. A | rainbow. It's a lot of bottles of champagne, so there's"
+		 intervals [186]:
+			 xmin = 1578.42
+			 xmax = 1586.14
+			 text = "drunks as well. And it's based a little bit on... We have a big | bauble party every year. Gary, what are you talking about?"
+		 intervals [187]:
+			 xmin = 1586.14
+			 xmax = 1593.08
+			 text = "So, Gary goes mad at Christmas. I go mad at Christmas and I | love Christmas trees. And so, people come round from miles"
+		 intervals [188]:
+			 xmin = 1593.08
+			 xmax = 1598.64
+			 text = "around to see your baubles? Absolutely. You can't put them | on the tree. We have lots of trees. Oh, you're those sorts of"
+		 intervals [189]:
+			 xmin = 1598.64
+			 xmax = 1610.78
+			 text = "gays. How many trees do you have? Eleven. Eleven Christmas | trees. Of different sizes. Sure, no-one likes a size queen."
+		 intervals [190]:
+			 xmin = 1610.78
+			 xmax = 1618.4
+			 text = "No. Gary does it all. Gary does all the... I do it all. You're | not allowed near it, Miles. No, he isn't. I've never hung a"
+		 intervals [191]:
+			 xmin = 1618.4
+			 xmax = 1627.64
+			 text = "single bauble. Really? That surprises me about you. Well, | I'll take these up to the panel. I'm sure they'll enjoy them"
+		 intervals [192]:
+			 xmin = 1627.64
+			 xmax = 1633.8
+			 text = "very much. OK, welcome, everyone. Give it up for Gary and | Miles. Gary and Miles, thank you. Thank you. Oh, you are"
+		 intervals [193]:
+			 xmin = 1633.8
+			 xmax = 1645.24
+			 text = "welcome. Thank you. Wow. And I'm delighted to announce that | this week's star baker is... Chrisso, Emma and Becky."
+		 intervals [194]:
+			 xmin = 1645.24
+			 xmax = 1654.26
+			 text = "Wonderful. Wonderful. Very important. Talk about climate | change today. Beautiful. But now I have to look sad whilst"
+		 intervals [195]:
+			 xmin = 1654.26
+			 xmax = 1661.6
+			 text = "carrying out the secretly enjoyable task of announcing who | will be asked to leave the studio this week. And I'm"
+		 intervals [196]:
+			 xmin = 1661.6
+			 xmax = 1678.96
+			 text = "afraid... It's going to be... Nicky and James, because | James is so snooty about flogging. Don't write that. Don't"
+		 intervals [197]:
+			 xmin = 1678.96
+			 xmax = 1685.24
+			 text = "write that sort of behaviour here. It's going to be James. | Great cake, though. Great cake. I hope those people get out"
+		 intervals [198]:
+			 xmin = 1685.24
+			 xmax = 1698.36
+			 text = "of that quicksand. But the good news is they each leave with a | party bag containing an extra slice of wooden spoon. And a"
+		 intervals [199]:
+			 xmin = 1698.36
+			 xmax = 1709.56
+			 text = "huge thank you to all of our studio bakers. APPLAUSE Great. | Thanks very much, Tom. Coming up after the break, star of the"
+		 intervals [200]:
+			 xmin = 1709.56
+			 xmax = 1728.56
+			 text = "party, Christy will be here. Back shortly. APPLAUSE | Welcome back. I'm here with party animals Scarlett,"
+		 intervals [201]:
+			 xmin = 1728.56
+			 xmax = 1734.94
+			 text = "Neville and Ashling. And it's time to meet the woman of the | hour. Will you please give it up for Bake Off Quarter"
+		 intervals [202]:
+			 xmin = 1734.94
+			 xmax = 1749.7
+			 text = "Finalist? Christy! APPLAUSE Welcome, Christy. Fantastic | to have you here. Thank you. First of all, massive"
+		 intervals [203]:
+			 xmin = 1749.7
+			 xmax = 1755.92
+			 text = "congratulations for making it all the way through to the | quarter final. It's a brilliant achievement, isn't it?"
+		 intervals [204]:
+			 xmin = 1755.92
+			 xmax = 1762.26
+			 text = "Yeah. It's such a good achievement for me. Having the four | kids and stuff. It's the first sort of thing I've done for"
+		 intervals [205]:
+			 xmin = 1762.26
+			 xmax = 1770.9
+			 text = "myself. And, yeah... Did they watch the show almost like a | football match? Like, I'm like, come on, Mum! Mum, can you"
+		 intervals [206]:
+			 xmin = 1770.9
+			 xmax = 1779.62
+			 text = "get me a snack? Well, you seem like a very close bunch this | year, but you bonded with one person in particular, and"
+		 intervals [207]:
+			 xmin = 1779.62
+			 xmax = 1794.26
+			 text = "you've actually brought him along tonight. Where are you? | Amos. Hello. APPLAUSE Did you two meet before the tent? Yes,"
+		 intervals [208]:
+			 xmin = 1794.26
+			 xmax = 1803.76
+			 text = "we actually met in auditions. Oh, really? It was love at | first sight. It was. When we went for the first episode, I got"
+		 intervals [209]:
+			 xmin = 1803.76
+			 xmax = 1812.06
+			 text = "out the car and, literally, Amos had just got out of his car, | and we were, like, screaming. I don't know. I'm so excited."
+		 intervals [210]:
+			 xmin = 1812.06
+			 xmax = 1818.96
+			 text = "And we walked in together. Yeah, it was just a pleasure. It's | so nice. Have a sort of pre-friend, isn't it? Are you proud of"
+		 intervals [211]:
+			 xmin = 1818.96
+			 xmax = 1827.94
+			 text = "Christy making it so far? I am so proud of you, seriously. Oh. | But, like in the audition, I saw her cake in the audition, and"
+		 intervals [212]:
+			 xmin = 1827.94
+			 xmax = 1836.66
+			 text = "I was shaking in my boots, seriously, guys. Was it that bad? | No. It was that good. Thank you for coming along, Amos. It's"
+		 intervals [213]:
+			 xmin = 1836.66
+			 xmax = 1847.27
+			 text = "lovely to see you again. It really is. Thank you. Yeah! | APPLAUSE So, Christy, when people recognise you out and"
+		 intervals [214]:
+			 xmin = 1847.27
+			 xmax = 1854.24
+			 text = "about, what sort of thing do they say to you? Do you know what? | It's always the same, and it's always, Is Alison as lovely?"
+		 intervals [215]:
+			 xmin = 1854.24
+			 xmax = 1863.4
+			 text = "She seems on the TV in real life. Have you told everyone she's | a real cow? LAUGHTER I'm your puss, too, cos we all know she's"
+		 intervals [216]:
+			 xmin = 1863.4
+			 xmax = 1869.64
+			 text = "lovely. I'm just like, no, she's even lovely, and, | honestly, she is. She's so warm. Yeah, she's very natural,"
+		 intervals [217]:
+			 xmin = 1869.64
+			 xmax = 1877.06
+			 text = "isn't she? Yeah. Yeah, absolutely. Now, it also turns out | that you and the makers are always talking about no. Watch"
+		 intervals [218]:
+			 xmin = 1877.06
+			 xmax = 1886.8
+			 text = "this. You do have great skin, though, I must say. We always | talk about it. He does. I think the reason I said that is"
+		 intervals [219]:
+			 xmin = 1886.8
+			 xmax = 1896.56
+			 text = "because that was the week we all found out he turned 50. No | way! What? He's 50? Wait, or 40? No, he's 50, yeah. No, he's"
+		 intervals [220]:
+			 xmin = 1896.56
+			 xmax = 1909.02
+			 text = "50. So, how did you get on with Paul and Prue? Yeah, when I | first met Paul... LAUGHTER That wasn't his! Yeah, Paul"
+		 intervals [221]:
+			 xmin = 1909.02
+			 xmax = 1917.34
+			 text = "scared me more than Prue. Prue seemed more soft. Yeah, she's | lovely. Paul's lovely, too. I think as the weeks go by and you"
+		 intervals [222]:
+			 xmin = 1917.34
+			 xmax = 1923.23
+			 text = "get to know them, you just feel much more relaxed and at ease, | and you're sort of talking to them outside of judging. But"
+		 intervals [223]:
+			 xmin = 1923.23
+			 xmax = 1930.8
+			 text = "during judging, Paul's pretty brutal. Yeah, I think he | likes to think that he's intimidating, doesn't he? Yeah, he"
+		 intervals [224]:
+			 xmin = 1930.8
+			 xmax = 1936.64
+			 text = "definitely plays on it, yeah. But because I must say, I'm | really enjoying watching you and Paul on your spin-off"
+		 intervals [225]:
+			 xmin = 1936.64
+			 xmax = 1951.98
+			 text = "show, Alien Autopsy. MUSIC PLAYS That was the dreaded | eight-plated bread, of course. Yeah. Panna, would you"
+		 intervals [226]:
+			 xmin = 1951.98
+			 xmax = 1959.14
+			 text = "watch a crime drama with Paul as the maverick cop and... He'd | be called something like the needy detective. I'd like him"
+		 intervals [227]:
+			 xmin = 1959.14
+			 xmax = 1967.1
+			 text = "to be called the Killsbury Doughboy. LAUGHTER And then you | could have Alison as the death sardine. There's been a"
+		 intervals [228]:
+			 xmin = 1967.1
+			 xmax = 1977.58
+			 text = "murder! Ha-ha! LAUGHTER Right. Well, let's revisit some of | your incredible creations, because they were. Now, in"
+		 intervals [229]:
+			 xmin = 1977.58
+			 xmax = 1984.88
+			 text = "Botanical's week, the judges couldn't resist your maple | and pecan spice buns, and you won the lemon and thyme drizzle"
+		 intervals [230]:
+			 xmin = 1984.88
+			 xmax = 1991.36
+			 text = "cake technical. And then you seem to really enjoy the whole | experience of making your floral dessert showstopper."
+		 intervals [231]:
+			 xmin = 1991.36
+			 xmax = 1997.26
+			 text = "Well, you might not be... Let's just have a look at that and | listen to what your thoughts were on that challenge. Oh,"
+		 intervals [232]:
+			 xmin = 1997.26
+			 xmax = 2008.2
+			 text = "thank God it's over. LAUGHTER Yeah. Yeah, you did your fail, | like, yeah, absolutely. You kicked off pastry week by"
+		 intervals [233]:
+			 xmin = 2008.2
+			 xmax = 2014.06
+			 text = "getting a Hollywood handshake for your creamy, | leek-and-mushroom picnic pies and dazzled the judges with"
+		 intervals [234]:
+			 xmin = 2014.06
+			 xmax = 2025.14
+			 text = "your autumnal lattice pies, which earned you star baker. | Yeah. How was that? APPLAUSE It was amazing. I didn't expect"
+		 intervals [235]:
+			 xmin = 2025.14
+			 xmax = 2031.78
+			 text = "it. You know, you're very modest. You don't want to get your | hopes up. Of course, Josh was amazing, and in my mind, it was"
+		 intervals [236]:
+			 xmin = 2031.78
+			 xmax = 2038.58
+			 text = "100% going to him. So when they say your name, it was just | like, yeah, it's such a nice experience, really lovely. And"
+		 intervals [237]:
+			 xmin = 2038.58
+			 xmax = 2045.74
+			 text = "some of your most memorable bakes included your chocolate | week showstopper, which looked exquisite. And, of course,"
+		 intervals [238]:
+			 xmin = 2045.74
+			 xmax = 2052.04
+			 text = "your incredible cake week showstopper. In the guise of a | duck, look at that, everyone. That is the main thing. I think"
+		 intervals [239]:
+			 xmin = 2052.04
+			 xmax = 2063.44
+			 text = "it's a duck. A real duck. APPLAUSE Here's a bit of that unseen | footage from Bread Week, which made me laugh. I don't really"
+		 intervals [240]:
+			 xmin = 2063.44
+			 xmax = 2077.199
+			 text = "know how it's gone. How has it gone? OK. Yeah, it's gone quite | well. LAUGHTER That's it. They just do it as I'm told."
+		 intervals [241]:
+			 xmin = 2077.199
+			 xmax = 2087.239
+			 text = "Absolutely. That's so sweet, though. So, for now, | everybody, thank you so much. Christy. CHEERING AND"
+		 intervals [242]:
+			 xmin = 2087.239
+			 xmax = 2101.98
+			 text = "APPLAUSE So, what does every good party week need? Music. | Well said. That's brilliant. LAUGHTER Very well done. And,"
+		 intervals [243]:
+			 xmin = 2101.98
+			 xmax = 2122.42
+			 text = "supplying tonight's dance floor fillers, will you please | welcome Woohoo! It's the Mary Arches, everyone. APPLAUSE"
+		 intervals [244]:
+			 xmin = 2122.42
+			 xmax = 2133.8
+			 text = "Now, the Mary Arches are going to put their spin on some | classic party songs. You lot shout out when you think you"
+		 intervals [245]:
+			 xmin = 2133.8
+			 xmax = 2144.34
+			 text = "know what they're playing. OK, is that makes sense? Yes! | Right, so, Mary Arches, are you ready? Yeah! All right, take"
+		 intervals [246]:
+			 xmin = 2144.34
+			 xmax = 2163.7
+			 text = "it away. Shout out to the bear. OK, one, two, three. WHISTLE | BLOWS Whitney Houston, all the way! CHEERING That's the"
+		 intervals [247]:
+			 xmin = 2163.7
+			 xmax = 2189.08
+			 text = "best thing you've got at night, everyone. Let's see. MUSIC | PLAYS CHEERING APPLAUSE OK, are you ready for your next one?"
+		 intervals [248]:
+			 xmin = 2189.08
+			 xmax = 2210.92
+			 text = "Yeah. Take it away. MUSIC PLAYS WHISTLE BLOWS WHISTLE BLOWS | Any out there? Anyone? Is it upside your head? LAUGHTER I"
+		 intervals [249]:
+			 xmin = 2210.92
+			 xmax = 2237.92
+			 text = "really wish it was, but no, it's not. All right, let's find | out. Off you go, then. MUSIC PLAYS APPLAUSE That was very"
+		 intervals [250]:
+			 xmin = 2237.92
+			 xmax = 2252.64
+			 text = "powerful. OK, this is the last one. Oh, my God. So, listen | really carefully. What do you think this is? MUSIC PLAYS Oh,"
+		 intervals [251]:
+			 xmin = 2252.64
+			 xmax = 2281.36
+			 text = "my God! Yes! That's correct. It was, come on, I need. Come on, | I need. Come on, I need. I love you, me. Everything. MUSIC"
+		 intervals [252]:
+			 xmin = 2281.36
+			 xmax = 2294.1
+			 text = "PLAYS OK, come on, I need by Texas Midnight Riders. And thank | you very much. Give it up for the Mary Archies, then."
+		 intervals [253]:
+			 xmin = 2294.1
+			 xmax = 2303.78
+			 text = "CHEERING APPLAUSE Now, Christy, I believe that you can | complete a Rubik's Cube in under four minutes. I can. But"
+		 intervals [254]:
+			 xmin = 2303.78
+			 xmax = 2311.76
+			 text = "sadly, we haven't got the time for that. LAUGHTER But stay | with us, cos Tom is on his way with a special gift for you. See"
+		 intervals [255]:
+			 xmin = 2311.76
+			 xmax = 2331.82
+			 text = "you in a bit, guys. CHEERING AND APPLAUSE Welcome back. | We're all here. Scarlett, Nabil, Ashling and Christy. OK,"
+		 intervals [256]:
+			 xmin = 2331.82
+			 xmax = 2342.84
+			 text = "who fancies a game of Artie Party? APPLAUSE So, Scarlett, | right, you've got a card with some party words and phrases on"
+		 intervals [257]:
+			 xmin = 2342.84
+			 xmax = 2350.68
+			 text = "it, and all you need to do is draw them, and the rest of the | panel and Christy will... Guess what they are. You can't use"
+		 intervals [258]:
+			 xmin = 2350.68
+			 xmax = 2364.26
+			 text = "any letters or symbols, OK? But I can draw the item. Yeah. All | right, Scarlett, your time starts now. A balloon. Yeah!"
+		 intervals [259]:
+			 xmin = 2364.26
+			 xmax = 2371.72
+			 text = "Well done. So that's number one. Well done for wiping your | own board. Beautiful artist, Scarlett, I have to say. I"
+		 intervals [260]:
+			 xmin = 2371.72
+			 xmax = 2382.38
+			 text = "really saw that balloon. I've got an A star at Textiles. Get | on with it. Um... Number two, yeah. Not A number two, but... A"
+		 intervals [261]:
+			 xmin = 2382.38
+			 xmax = 2392.1
+			 text = "hole. Down a hole. Stone skimming. Are you doing the same one | as I've done? Yeah! Is that a T-cup, am I...? Er... Falling"
+		 intervals [262]:
+			 xmin = 2392.1
+			 xmax = 2399.56
+			 text = "out of a hole. Frisbees. Falling out of... Tumbling out of a | hole. Air hole. Definitely hole, I cut. All right,"
+		 intervals [263]:
+			 xmin = 2399.56
+			 xmax = 2409.34
+			 text = "Scarlett, what is it? The sausage roll. LAUGHTER It's a | sausage roll. Why did you nod at me every time I said a hole?"
+		 intervals [264]:
+			 xmin = 2409.34
+			 xmax = 2430.98
+			 text = "Cos it grabs the roll. I genuinely thought you were doing the | wrong one. And your next one. Moose Christmas reindeer."
+		 intervals [265]:
+			 xmin = 2430.98
+			 xmax = 2444.01
+			 text = "Roondi. Opposite of him. Moose hunter. Spectacled. Yeah! | APPLAUSE And your final one, number ten. One second. The"
+		 intervals [266]:
+			 xmin = 2444.01
+			 xmax = 2456.46
+			 text = "Tate Britain. Scarlett Moffat exhibition. I'm not a part of | the big... Yes, Will Taken! Yay! This right, erm... Vape."
+		 intervals [267]:
+			 xmin = 2456.46
+			 xmax = 2469.52
+			 text = "Vaping. Er... Er... Er... Foghorn. Party poppers. Yay! | APPLAUSE Scarlett, you've done a party popper. I think"
+		 intervals [268]:
+			 xmin = 2469.52
+			 xmax = 2476.24
+			 text = "you've got it slightly wrong. Look at the card again. Party | pooper. Lots of party poppers you've had! I'm glad you"
+		 intervals [269]:
+			 xmin = 2476.24
+			 xmax = 2491.98
+			 text = "didn't have to draw that. Hi! Yes, that's absolutely well | done. APPLAUSE OK, Christy, we're going to ask the panel now"
+		 intervals [270]:
+			 xmin = 2491.98
+			 xmax = 2499.3
+			 text = "to tell us what they loved about watching you on Bake Off | Scarlett. Everything. And I really hope that you take some"
+		 intervals [271]:
+			 xmin = 2499.3
+			 xmax = 2505.8
+			 text = "self-confidence from this because watching you, like, I | just feel like sometimes you're so hard on yourself, but you"
+		 intervals [272]:
+			 xmin = 2505.8
+			 xmax = 2512.3
+			 text = "made it to the quarterfinals, like, you're amazing, so I | hope that you take that with you. And yeah, you're just"
+		 intervals [273]:
+			 xmin = 2512.3
+			 xmax = 2523.28
+			 text = "wonderful. Aw, thank you. Yeah, yeah. APPLAUSE Vaping. As | someone who is naturally very anxious, like, I always doubt"
+		 intervals [274]:
+			 xmin = 2523.28
+			 xmax = 2528.98
+			 text = "myself. I enjoyed watching someone like me overcome that. | You were fantastic, and I'm sure you make a lot of people"
+		 intervals [275]:
+			 xmin = 2528.98
+			 xmax = 2541.14
+			 text = "happy that you don't even know about. APPLAUSE That's | great. Not for me, sorry. LAUGHTER You know what I loved? I"
+		 intervals [276]:
+			 xmin = 2541.14
+			 xmax = 2546.74
+			 text = "loved that you openly said, like, you hadn't done anything | for yourself. And I think so many people who you do get"
+		 intervals [277]:
+			 xmin = 2546.74
+			 xmax = 2551.64
+			 text = "motherhood and be a joy and stuff, but that it's not your only | purpose and that to do something for yourself is so"
+		 intervals [278]:
+			 xmin = 2551.64
+			 xmax = 2557.04
+			 text = "important. And to come out of those years going, actually, I | have a little ambition for myself and it becomes a big one and"
+		 intervals [279]:
+			 xmin = 2557.04
+			 xmax = 2566.74
+			 text = "here you are. So I think that's usually important. Thank | you. APPLAUSE I'm excited. OK, thanks very much, everyone."
+		 intervals [280]:
+			 xmin = 2566.74
+			 xmax = 2580.9
+			 text = "And now here comes Tom and his trolley. APPLAUSE Oh, my, | Gryffie. Will you tell us what you're going to take away from"
+		 intervals [281]:
+			 xmin = 2580.9
+			 xmax = 2589.68
+			 text = "your time on Bake Off? Just to believe in myself more and just | all my lovely baking family. Oh, well, that's another thing"
+		 intervals [282]:
+			 xmin = 2589.68
+			 xmax = 2598.02
+			 text = "to say. And here's what I think. LAUGHTER Christy, you are | one hell of a baker. I understand your need for perfection,"
+		 intervals [283]:
+			 xmin = 2598.02
+			 xmax = 2607.36
+			 text = "of course. I'm just the same. Look at my hair. Christy, you | make candy canes out of cheese straws in a tent. And not many"
+		 intervals [284]:
+			 xmin = 2607.36
+			 xmax = 2615.08
+			 text = "people can say that, perhaps for obvious reasons. You were | brilliant on this year's Bake Off and you should be so proud"
+		 intervals [285]:
+			 xmin = 2615.08
+			 xmax = 2626.12
+			 text = "of yourself. Just don't you forget it. We're all very, very | proud of you here. So remember that. Thank you. APPLAUSE"
+		 intervals [286]:
+			 xmin = 2626.12
+			 xmax = 2633.82
+			 text = "Thanks, Tom. And now, Christy, let's all enjoy a look back at | your time in the tent. I'm trying to just take a look and enjoy"
+		 intervals [287]:
+			 xmin = 2633.82
+			 xmax = 2640.44
+			 text = "it. I think it looks really appetising. Christy, you need my | bestie, though. Wow. They look impressive inside. I'll"
+		 intervals [288]:
+			 xmin = 2640.44
+			 xmax = 2649.2
+			 text = "tell you that now. You have. Beautifully moist inside and | crispy. So what I will do... Thank you. Just my instinct,"
+		 intervals [289]:
+			 xmin = 2649.2
+			 xmax = 2656.8
+			 text = "yeah. The winner is this one, Christy. Perfect. Oh, my gosh. | I think you need to do it again. Shanaf. You're lovely. Oh,"
+		 intervals [290]:
+			 xmin = 2656.8
+			 xmax = 2661.84
+			 text = "that's gorgeous, yeah. It looks wonderful. It's perfect, | isn't it? They're beautiful. I've never had French Pan with"
+		 intervals [291]:
+			 xmin = 2661.84
+			 xmax = 2669.96
+			 text = "Basby in it before. That's amazing. I love that. This week's | star baker is Christy. It's been like a life journey. You"
+		 intervals [292]:
+			 xmin = 2669.96
+			 xmax = 2676.34
+			 text = "know, I've done really well. I love that. Tastes great. Star | baker, handshake. Can these things mean the world to me? Go,"
+		 intervals [293]:
+			 xmin = 2676.34
+			 xmax = 2698.4
+			 text = "go! I'm so proud of myself. APPLAUSE So, Tom, if you could | reveal all... APPLAUSE So, Christy, they are with your"
+		 intervals [294]:
+			 xmin = 2698.4
+			 xmax = 2705.64
+			 text = "willing lemon and thyme drizzle cake, beautiful chocolate | box, and Mr Holly was favourite picnic pies. Christy,"
+		 intervals [295]:
+			 xmin = 2705.64
+			 xmax = 2718.62
+			 text = "everybody. CHEERING So, that's it for this week. A big thank | you to Tom, to Christy, to the Mary Archies, all our studio"
+		 intervals [296]:
+			 xmin = 2718.62
+			 xmax = 2727.16
+			 text = "bakers, and to our celebrity panel, Scarlett Moffat, Nabil | Abdul Rashid, and Ashling B, see you same time next week for"
+		 intervals [297]:
+			 xmin = 2727.16
+			 xmax = 2735.26
+			 text = "the Bake Off Semi-Final. Goodbye. Are you a star baker in the | making? If you'd like to apply for the next series of Bake"
+		 intervals [298]:
+			 xmin = 2735.26
+			 xmax = 2748.48
+			 text = "Off, visit Channel4.com or would slash take part. | Qualifications in the bag, but England still need a point to"
+		 intervals [299]:
+			 xmin = 2748.48
+			 xmax = 2754.34
+			 text = "make sure of topping the group. Full coverage as Malta come | to Wembley live from 7 o'clock tomorrow, which means that"
+		 intervals [300]:
+			 xmin = 2754.34
+			 xmax = 2760.18
+			 text = "GoverBox will be on a bit later than usual at 10 o'clock. | We're next tonight, Taskmasters keeping up with the times,"
+		 intervals [301]:
+			 xmin = 2760.18
+			 xmax = 2769.04
+			 text = "with Alex's very own VAR system. Although the fact he's | called it the Dream Crusher doesn't bode well, I reckon."
+		 intervals [302]:
+			 xmin = 2769.04
+			 xmax = 2989.62
+			 text = "APPLAUSE MUSIC MUSIC MUSIC MUSIC MUSIC MUSIC MUSIC MUSIC"
